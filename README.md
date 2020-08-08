@@ -44,6 +44,8 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+[![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
+
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
 [facebook]: https://www.facebook.com/s4nxTV
 [youtube]: https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw?sub_confirmation=1
