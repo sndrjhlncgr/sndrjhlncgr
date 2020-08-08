@@ -49,6 +49,7 @@
 - [The Chainsmokers ft. ROZES - Roses](https://www.youtube.com/watch?v=FzR4-wvj3j8)
 <!-- YOUTUBE:END -->
 
+### 📈 My Stats
 [![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
 
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
