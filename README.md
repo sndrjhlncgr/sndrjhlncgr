@@ -8,8 +8,8 @@
 - 💯 My hobby is to play games, coding and design anything
 - 🐶 Yeah i don't have work experience cause im nitpicky  
 
-### 🔌 Connect with me:
-[<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+### 🔌 Connect with me
+> [<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="S4nxTV | Facebook Gaming" width="22px" src="https://simpleicons.org/icons/facebookgaming.svg" />][facebook]
 [<img align="left" alt="Sandro Cagara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Cagara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -17,7 +17,7 @@
 
 <br />
 
-### 🔧 Languages and Tools:
+### 🔧 Languages and Tools
 
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
