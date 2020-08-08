@@ -43,11 +43,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Take Me To Church - Hozier (Audio)](https://www.youtube.com/watch?v=no77ykHu8wE)
 - [The Chainsmokers - Honest](https://www.youtube.com/watch?v=QieamskOJ20)
 - [Machine Gun Kelly - concert for aliens (Audio)](https://www.youtube.com/watch?v=-7gWQgWtn2I)
 - [Machine Gun Kelly ft. blackbear - my ex's best friend (Audio)](https://www.youtube.com/watch?v=acyHHfTOORc)
 - [The Chainsmokers - Bloodstream](https://www.youtube.com/watch?v=IjNTg76KnKY)
-- [The Chainsmokers ft. Ty Dolla $ign, bülow - Do You Mean](https://www.youtube.com/watch?v=tZEuGl6VjZE)
 <!-- YOUTUBE:END -->
 
 ### 📈 My Stats
