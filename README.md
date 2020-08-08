@@ -18,13 +18,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PS_icon.png" />
+<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PS_icon.png" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PS_icon.png" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/en/legal/images/badges/PS_icon.png" />
-
-
+<img align="left" alt="Adobe Premiere Pro" width="26px" src="https://www.adobe.com/content/dam/cc/icons/pr_cc_app_RGB.svg" />
+<img align="left" alt="Adobe Audition" width="26px" src="https://helpx.adobe.com/content/dam/help/mnemonics/au_cc_app_RGB.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
