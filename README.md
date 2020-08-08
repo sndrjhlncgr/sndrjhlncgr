@@ -13,6 +13,7 @@
 [<img align="left" alt="S4nxTV | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Sandro Cagara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Cagara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sandro Cagara | Spotify" width="22px" src="https://simpleicons.org/icons/spotify.svg" />][spotify]
 
 <br />
 
@@ -52,6 +53,7 @@
 ### 📈 My Stats
 [![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
 
+[spotify]: https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C?si=DBtU39CfTCi089pCMpKZ9Q
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
 [facebook]: https://www.facebook.com/s4nxTV
 [youtube]: https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw?sub_confirmation=1
