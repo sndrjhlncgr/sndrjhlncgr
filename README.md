@@ -2,7 +2,7 @@
 
 ## I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
 - :shipit: I’m currently learning a [Udemy Course][udemy]
--  ♪ I like music
+- 🎵 I like listening to music
 - 🔎 I’m looking to collaborate with other content creators
 - 🏁 2020 Goals: Contribute more to Open Source projects
 - 💯 My hobby is to play games, coding and design anything
