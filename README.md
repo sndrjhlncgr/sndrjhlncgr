@@ -8,8 +8,8 @@
 - 💯 My hobby is to play games, coding and design anything
 - 🐶 Yeah i don't have work experience cause im nitpicky  
 
-### 🔌 Connect with me
->  >  [<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+### Connect with me
+[<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="S4nxTV | Facebook Gaming" width="22px" src="https://simpleicons.org/icons/facebookgaming.svg" />][facebook]
 [<img align="left" alt="Sandro Cagara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Cagara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -17,7 +17,7 @@
 
 <br />
 
-### 🔧 Languages and Tools
+### Languages and Tools
 
 <img align="left" style="padding-left:30px;" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
@@ -41,7 +41,7 @@
 <br />
 
 
-### 📺 Latest Youtube Videos
+### Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Take Me To Church - Hozier (Audio)](https://www.youtube.com/watch?v=no77ykHu8wE)
 - [The Chainsmokers - Honest](https://www.youtube.com/watch?v=QieamskOJ20)
@@ -50,7 +50,7 @@
 - [The Chainsmokers - Bloodstream](https://www.youtube.com/watch?v=IjNTg76KnKY)
 <!-- YOUTUBE:END -->
 
-### 📈 My Stats
+### My Stats
 [![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
 
 [spotify]: https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C?si=DBtU39CfTCi089pCMpKZ9Q
