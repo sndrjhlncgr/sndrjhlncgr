@@ -19,7 +19,7 @@
 
 ### 🔧 Languages and Tools
 
-&nbsp;<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
+<img align="left" style="margin-left:10px;" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/icons/photoshop-mobile.svg" />
 <img align="left" alt="Adobe Illustrator" width="26px" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" />
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://www.adobe.com/content/dam/cc/icons/pr_cc_app_RGB.svg" />
 <img align="left" alt="Adobe Audition" width="26px" src="https://helpx.adobe.com/content/dam/help/mnemonics/au_cc_app_RGB.svg" />
