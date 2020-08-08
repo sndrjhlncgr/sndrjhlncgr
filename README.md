@@ -39,7 +39,9 @@
 <br />
 <br />
 
----
+# Blog posts
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
 [facebook]: https://www.facebook.com/s4nxTV
