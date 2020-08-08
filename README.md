@@ -1,6 +1,6 @@
-### > Hi , I'm Sandro Jhuliano C.Cagara :part_alternation_mark:
+## > Hi , I'm Sandro Jhuliano C.Cagara :part_alternation_mark:
 
-## I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
+### I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
 - :shipit: I’m currently learning a [Udemy Course][udemy]
 - 🎧 I like listening to music
 - 🔎 I’m looking to collaborate with other content creators
