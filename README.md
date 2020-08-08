@@ -18,7 +18,7 @@
 
 
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
-[facebook]: fb.gg/s4nxTV
+[facebook]: https://www.facebook.com/s4nxTV
 [youtube]: https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw?sub_confirmation=1
 [instagram]: https://www.instagram.com/sandro.cagara/
 [linkedin]: https://www.linkedin.com/in/sndrcgr/
