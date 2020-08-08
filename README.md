@@ -41,7 +41,7 @@
 
 ---
 
-### :yt: Latest Youtube Videos
+### 	 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
