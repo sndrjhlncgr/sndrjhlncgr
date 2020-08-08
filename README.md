@@ -42,6 +42,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Machine Gun Kelly - concert for aliens (Audio)](https://www.youtube.com/watch?v=-7gWQgWtn2I)
+- [Machine Gun Kelly ft. blackbear - my ex's best friend (Audio)](https://www.youtube.com/watch?v=acyHHfTOORc)
+- [The Chainsmokers - Bloodstream](https://www.youtube.com/watch?v=IjNTg76KnKY)
+- [The Chainsmokers ft. Ty Dolla $ign, bülow - Do You Mean](https://www.youtube.com/watch?v=tZEuGl6VjZE)
+- [The Chainsmokers ft. ROZES - Roses](https://www.youtube.com/watch?v=FzR4-wvj3j8)
 <!-- YOUTUBE:END -->
 
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
