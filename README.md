@@ -40,11 +40,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Chainsmokers - Paris](https://www.youtube.com/watch?v=CzNet6rdppE)
 - [Take Me To Church - Hozier (Audio)](https://www.youtube.com/watch?v=no77ykHu8wE)
 - [The Chainsmokers - Honest](https://www.youtube.com/watch?v=QieamskOJ20)
 - [Machine Gun Kelly - concert for aliens (Audio)](https://www.youtube.com/watch?v=-7gWQgWtn2I)
 - [Machine Gun Kelly ft. blackbear - my ex's best friend (Audio)](https://www.youtube.com/watch?v=acyHHfTOORc)
-- [The Chainsmokers - Bloodstream](https://www.youtube.com/watch?v=IjNTg76KnKY)
 <!-- YOUTUBE:END -->
 
 ### My Stats
