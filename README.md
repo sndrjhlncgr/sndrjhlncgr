@@ -40,11 +40,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Jack Stauber - Oh Klahoma](https://www.youtube.com/watch?v=RHUy0fRFFlA)
 - [The Chainsmokers - Young](https://www.youtube.com/watch?v=Lhij9yL8W8U)
 - [The Chainsmokers - The One](https://www.youtube.com/watch?v=BxGQAawZNEs)
 - [The Chainsmokers - Push My Luck](https://www.youtube.com/watch?v=z__QL2ONiH4)
 - [The Chainsmokers - Paris](https://www.youtube.com/watch?v=CzNet6rdppE)
-- [Take Me To Church - Hozier (Audio)](https://www.youtube.com/watch?v=no77ykHu8wE)
 <!-- YOUTUBE:END -->
 
 ### My Stats
