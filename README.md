@@ -9,7 +9,7 @@
 - 🐶 Yeah i don't have work experience cause im nitpicky  
 
 ### Spotify Playing 🎧
-[<img src="https://sndrjhlncgr.vercel.app/api/spotify-playing" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/user/aaq6byf43q6l1feeutxzalqpe)
+[<img src="https://sndrjhlncgr.vercel.app/api/spotify-playing" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/user/0cbMqAcXk7wIyBxwlw53Jd)
 
 ### Connect with me
 [<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
