@@ -1,6 +1,6 @@
 ## > Hi , I'm Sandro Jhuliano C.Cagara :part_alternation_mark:
 ### Spotify Playing 🎧
-[<img src="https://github-readme-spotify-status.vercel.app/api/spotify-playing" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/user/aaq6byf43q6l1feeutxzalqpe)
+[<img src="https://spotify-status.vercel.app/app/run-spotify-status" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/user/aaq6byf43q6l1feeutxzalqpe)
 ### I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
 - :shipit: I’m currently learning a [Animated Infographics With After Effects][udemy]
 - 🎧 I like listening to music
