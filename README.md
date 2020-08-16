@@ -48,8 +48,12 @@
 - [Jack Stauber - Oh Klahoma](https://www.youtube.com/watch?v=RHUy0fRFFlA)
 <!-- YOUTUBE:END -->
 
-### My Stats
-[![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
+<details> 
+  <summary>📊 My Github Stats</summary> 
+  <br>
+  
+  [![sndrjhlncgr stats](https://github-readme-stats.vercel.app/api?username=sndrjhlncgr)](https://github.com/sndrjhlncgr/github-readme-stats)
+</details>
 
 [spotify]: https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C?si=DBtU39CfTCi089pCMpKZ9Q
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
