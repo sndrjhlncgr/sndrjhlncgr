@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Tritonal ft. Lourdiz - Little By Little](https://www.youtube.com/watch?v=BZKoVr_2OkA)
 - [Trevor Daniel - Falling](https://www.youtube.com/watch?v=DRoqu8rArvg)
 - [The Temper Trap - Sweet Disposition](https://www.youtube.com/watch?v=23w_mic6UVc)
 - [The Chainsmokers ft. Sabrina Claudio - See The Way](https://www.youtube.com/watch?v=BsrtEqeTTG8)
 - [Jack Stauber - Oh Klahoma](https://www.youtube.com/watch?v=RHUy0fRFFlA)
-- [The Chainsmokers - Young](https://www.youtube.com/watch?v=Lhij9yL8W8U)
 <!-- YOUTUBE:END -->
 
 ### My Stats
