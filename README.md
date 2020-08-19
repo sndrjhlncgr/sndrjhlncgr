@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Will Jay - Nights Like These](https://www.youtube.com/watch?v=SeJ78qSfDzA)
 - [Virginia To Vegas - Just Friends](https://www.youtube.com/watch?v=J7LcqJMr4TU)
 - [Troye Sivan ft. Alessia Cara - WILD](https://www.youtube.com/watch?v=LWudlmCvqx8)
 - [Tritonal ft. Lourdiz - Little By Little](https://www.youtube.com/watch?v=BZKoVr_2OkA)
 - [Trevor Daniel - Falling](https://www.youtube.com/watch?v=DRoqu8rArvg)
-- [The Temper Trap - Sweet Disposition](https://www.youtube.com/watch?v=23w_mic6UVc)
 <!-- YOUTUBE:END -->
 
 <details> 
