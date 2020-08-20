@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [William Black ft. Monika Santucci - Deep Blue](https://www.youtube.com/watch?v=JADwcWOaPow)
 - [Will Jay - Nights Like These](https://www.youtube.com/watch?v=SeJ78qSfDzA)
 - [Virginia To Vegas - Just Friends](https://www.youtube.com/watch?v=J7LcqJMr4TU)
 - [Troye Sivan ft. Alessia Cara - WILD](https://www.youtube.com/watch?v=LWudlmCvqx8)
 - [Tritonal ft. Lourdiz - Little By Little](https://www.youtube.com/watch?v=BZKoVr_2OkA)
-- [Trevor Daniel - Falling](https://www.youtube.com/watch?v=DRoqu8rArvg)
 <!-- YOUTUBE:END -->
 
 <details> 
