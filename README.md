@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Chainsmokers ft. blink 182 - P.S I Hope You're Happy](https://www.youtube.com/watch?v=i1AcozGCxCI)
 - [William Black ft. RUNN - Miss It](https://www.youtube.com/watch?v=OfecywggT4U)
 - [William Black ft. Monika Santucci - Deep Blue](https://www.youtube.com/watch?v=JADwcWOaPow)
 - [Will Jay - Nights Like These](https://www.youtube.com/watch?v=SeJ78qSfDzA)
 - [Virginia To Vegas - Just Friends](https://www.youtube.com/watch?v=J7LcqJMr4TU)
-- [Troye Sivan ft. Alessia Cara - WILD](https://www.youtube.com/watch?v=LWudlmCvqx8)
 <!-- YOUTUBE:END -->
 
 <details> 
