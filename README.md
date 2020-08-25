@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Pretty Ricky - Grind On Me](https://www.youtube.com/watch?v=y-0XUqsM3iE)
 - [The Chainsmokers & Kygo - Family](https://www.youtube.com/watch?v=2OB1mjZ_Z3E)
 - [The Chainsmokers ft. Amy Shark - The Reaper](https://www.youtube.com/watch?v=_uOPrfuKnro)
 - [Glass Animals - Toes](https://www.youtube.com/watch?v=KQ_lM2_vOgU)
 - [The Chainsmokers ft. blink 182 - P.S I Hope You're Happy](https://www.youtube.com/watch?v=i1AcozGCxCI)
-- [William Black ft. RUNN - Miss It](https://www.youtube.com/watch?v=OfecywggT4U)
 <!-- YOUTUBE:END -->
 
 <details> 
