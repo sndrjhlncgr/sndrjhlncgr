@@ -42,11 +42,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Lil Trashy - nightmares](https://www.youtube.com/watch?v=56yMvQp16hM)
 - [AURORA - The River](https://www.youtube.com/watch?v=mz0E0sGpdo8)
 - [ayokay ft. Chelsea Cutler - The Shine](https://www.youtube.com/watch?v=o17Wd_rRj3s)
 - [Liam Payne - Live Forever](https://www.youtube.com/watch?v=Lls3QeQl8P0)
 - [Pretty Ricky - Grind On Me](https://www.youtube.com/watch?v=y-0XUqsM3iE)
-- [The Chainsmokers & Kygo - Family](https://www.youtube.com/watch?v=2OB1mjZ_Z3E)
 <!-- YOUTUBE:END -->
 
 <details> 
