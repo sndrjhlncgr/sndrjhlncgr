@@ -42,11 +42,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [San Holo ft. Taska Black - Right Here, Right Now](https://www.youtube.com/watch?v=dVf4_Akk-mA)
 - [San Holo & Cassini - love wip](https://www.youtube.com/watch?v=1aX0cFoBh-s)
 - [San Holo - everything matters (when it comes to you)](https://www.youtube.com/watch?v=WFwZUnpq9eE)
 - [Lil Trashy - nightmares](https://www.youtube.com/watch?v=56yMvQp16hM)
 - [AURORA - The River](https://www.youtube.com/watch?v=mz0E0sGpdo8)
-- [ayokay ft. Chelsea Cutler - The Shine](https://www.youtube.com/watch?v=o17Wd_rRj3s)
 <!-- YOUTUBE:END -->
 
 <details> 
