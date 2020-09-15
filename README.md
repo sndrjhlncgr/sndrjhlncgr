@@ -42,7 +42,7 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Petit Biscuit - Drivin Thru The Night](https://www.youtube.com/watch?v=Acd14kIQVKg)
+- [Petit Biscuit - Drivin Thru The Night (Audio)](https://www.youtube.com/watch?v=Acd14kIQVKg)
 - [shallou - Last Day](https://www.youtube.com/watch?v=hDqVwVVcUvs)
 - [San Holo ft. Taska Black - Right Here, Right Now](https://www.youtube.com/watch?v=dVf4_Akk-mA)
 - [San Holo & Cassini - love wip](https://www.youtube.com/watch?v=1aX0cFoBh-s)
