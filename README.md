@@ -1,4 +1,3 @@
-## > Hi , I'm Sandro Jhuliano C.Cagara :part_alternation_mark:
 ### Spotify Playing Now 
 [<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C)
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="350" />](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
