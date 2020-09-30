@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Jeremy Zucker - not ur friend](https://www.youtube.com/watch?v=_0cARbOfT1o)
+- [Machine Gun Kelly & Halsey - forget me too (Audio)](https://www.youtube.com/watch?v=5DwBNBjd9iU)
 - [CAROLINE - Against US](https://www.youtube.com/watch?v=57H9pZr5b2g)
 - [YUNGBLUD - god save me, but don't drown me out (Audio)](https://www.youtube.com/watch?v=xJsQNPu2iyc)
 - [Petit Biscuit - Drivin Thru The Night (Audio)](https://www.youtube.com/watch?v=Acd14kIQVKg)
-- [shallou - Last Day](https://www.youtube.com/watch?v=hDqVwVVcUvs)
-- [San Holo ft. Taska Black - Right Here, Right Now](https://www.youtube.com/watch?v=dVf4_Akk-mA)
 <!-- YOUTUBE:END -->
 
 <details> 
