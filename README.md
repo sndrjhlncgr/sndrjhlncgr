@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Emmit Fenn - Lost In Space](https://www.youtube.com/watch?v=HSHOrVXRwcs)
 - [Future ft  Drake - Life Is Good](https://www.youtube.com/watch?v=9VCTUCiPukA)
 - [Angus & Julia Stone - Chateau](https://www.youtube.com/watch?v=gZwnSYkcfg0)
 - [Floyd Wonder - mas queso  (Audio)](https://www.youtube.com/watch?v=gzijgVDARnw)
 - [LANY - you!](https://www.youtube.com/watch?v=ILsX_3Aig4U)
-- [Jeremy Zucker - not ur friend](https://www.youtube.com/watch?v=_0cARbOfT1o)
 <!-- YOUTUBE:END -->
 
 <details> 
