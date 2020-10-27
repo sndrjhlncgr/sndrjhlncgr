@@ -8,7 +8,6 @@
 - 🏁 2020 Goals: Contribute more to Open Source projects
 - 💯 My hobby is to play games, coding and design anything
 - 🐶 Yeah i don't have work experience cause im nitpicky  
-
 ### Connect with me
 [<img align="left" alt="Music Taste | YouTube"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="S4nxTV | Facebook Gaming" width="22px" src="https://simpleicons.org/icons/facebookgaming.svg" />][facebook]
