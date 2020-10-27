@@ -41,11 +41,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Jai Wolf - The World Is Ours](https://www.youtube.com/watch?v=Sen0ZeG-M6o)
 - [Aries - DEITY](https://www.youtube.com/watch?v=DV_aK4o5E8U)
 - [Emmit Fenn - Lost In Space](https://www.youtube.com/watch?v=HSHOrVXRwcs)
 - [Future ft  Drake - Life Is Good](https://www.youtube.com/watch?v=9VCTUCiPukA)
 - [Angus & Julia Stone - Chateau](https://www.youtube.com/watch?v=gZwnSYkcfg0)
-- [Floyd Wonder - mas queso  (Audio)](https://www.youtube.com/watch?v=gzijgVDARnw)
 <!-- YOUTUBE:END -->
 
 <details> 
