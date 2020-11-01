@@ -2,7 +2,7 @@
 [<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="350" />](https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C)
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="350" />](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 ### I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
-- :shipit: I’m currently learning a [Animated Infographics With After Effects][udemy]
+- :shipit: I’m currently learning a [Python for Everybody Specialization][coursera]
 - 🎧 I like listening to music
 - 🔎 I’m looking to collaborate with other content creators
 - 🏁 2020 Goals: Contribute more to Open Source projects
@@ -56,6 +56,7 @@
 
 [spotify]: https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C?si=DBtU39CfTCi089pCMpKZ9Q
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
+[coursera] : https://www.coursera.org/learn/python-data
 [facebook]: https://www.facebook.com/s4nxTV
 [youtube]: https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw?sub_confirmation=1
 [instagram]: https://www.instagram.com/sandro.cagara/
