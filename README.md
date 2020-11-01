@@ -56,7 +56,7 @@
 
 [spotify]: https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C?si=DBtU39CfTCi089pCMpKZ9Q
 [udemy]: https://www.udemy.com/course/animated-infographics-with-after-effects
-[coursera] : https://www.coursera.org/learn/python-data
+[coursera]: https://www.coursera.org/learn/python-data
 [facebook]: https://www.facebook.com/s4nxTV
 [youtube]: https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw?sub_confirmation=1
 [instagram]: https://www.instagram.com/sandro.cagara/
