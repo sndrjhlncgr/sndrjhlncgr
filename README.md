@@ -40,11 +40,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Gashi - Roses (Audio)](https://www.youtube.com/watch?v=Kui38ZOFW2U)
 - [Chill Out Music III 🎧 (2020) | 2 Hours](https://www.youtube.com/watch?v=IQImfUfzte4)
 - [Jai Wolf - The World Is Ours](https://www.youtube.com/watch?v=Sen0ZeG-M6o)
 - [Aries - DEITY](https://www.youtube.com/watch?v=DV_aK4o5E8U)
 - [Emmit Fenn - Lost In Space](https://www.youtube.com/watch?v=HSHOrVXRwcs)
-- [Future ft  Drake - Life Is Good](https://www.youtube.com/watch?v=9VCTUCiPukA)
 <!-- YOUTUBE:END -->
 
 <details> 
