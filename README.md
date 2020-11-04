@@ -1,6 +1,6 @@
 ### Spotify Playing Now 
 [<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="410" height="115" />](https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C)
-[<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="430" height="120" />](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
+[<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="410" height="115" />](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 ### I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
 - :shipit: I’m currently learning a [Python for Everybody Specialization][coursera]
 - 🎧 I like listening to music
