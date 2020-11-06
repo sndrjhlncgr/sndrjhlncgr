@@ -40,11 +40,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Aries - PONY](https://www.youtube.com/watch?v=JmLm8itDgjg)
 - [Gashi - Roses (Audio)](https://www.youtube.com/watch?v=Kui38ZOFW2U)
 - [Chill Out Music III 🎧 (2020) | 2 Hours](https://www.youtube.com/watch?v=IQImfUfzte4)
 - [Jai Wolf - The World Is Ours](https://www.youtube.com/watch?v=Sen0ZeG-M6o)
 - [Aries - DEITY](https://www.youtube.com/watch?v=DV_aK4o5E8U)
-- [Emmit Fenn - Lost In Space](https://www.youtube.com/watch?v=HSHOrVXRwcs)
 <!-- YOUTUBE:END -->
 
 <details> 
