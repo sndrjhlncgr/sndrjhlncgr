@@ -40,7 +40,7 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
-- [The Kid LAROI ft. Machine Gun Kelly - F_CK YOU, GOODBYE](https://www.youtube.com/watch?v=t-b6DJyiSWc)
+- [The Kid LAROI ft. Machine Gun Kelly - F_CK YOU, GOODBYE](https://www.youtube.com/watch?v=0644SfCHhIA)
 - [Benji Lewis - Drift](https://www.youtube.com/watch?v=VtIevN6FCpQ)
 - [Aries - PONY](https://www.youtube.com/watch?v=JmLm8itDgjg)
 - [Gashi - Roses (Audio)](https://www.youtube.com/watch?v=Kui38ZOFW2U)
