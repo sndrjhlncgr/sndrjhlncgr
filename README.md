@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Joji - XNXX](https://www.youtube.com/watch?v=TrqLMz-1cbQ)
 - [The Kid LAROI ft. Machine Gun Kelly - F_CK YOU, GOODBYE](https://www.youtube.com/watch?v=0644SfCHhIA)
 - [Benji Lewis - Drift](https://www.youtube.com/watch?v=VtIevN6FCpQ)
 - [Aries - PONY](https://www.youtube.com/watch?v=JmLm8itDgjg)
 - [Gashi - Roses (Audio)](https://www.youtube.com/watch?v=Kui38ZOFW2U)
-- [Chill Out Music III 🎧 (2020) | 2 Hours](https://www.youtube.com/watch?v=IQImfUfzte4)
 <!-- YOUTUBE:END -->
 
 <details> 
