@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Aries - SAYONARA](https://www.youtube.com/watch?v=UqkpugVG0mU)
 - [Yxngxr1 - Tyler](https://www.youtube.com/watch?v=QQlfNX76bz4)
 - [Joji - XNXX](https://www.youtube.com/watch?v=TrqLMz-1cbQ)
 - [The Kid LAROI ft. Machine Gun Kelly - F_CK YOU, GOODBYE](https://www.youtube.com/watch?v=0644SfCHhIA)
 - [Benji Lewis - Drift](https://www.youtube.com/watch?v=VtIevN6FCpQ)
-- [Aries - PONY](https://www.youtube.com/watch?v=JmLm8itDgjg)
 <!-- YOUTUBE:END -->
 
 <details> 
