@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Petit Biscuit - Full Moon](https://www.youtube.com/watch?v=SZWbJ8DL03A)
 - [CAROLINE - Pretend (Audio)](https://www.youtube.com/watch?v=W__wskd00RE)
 - [Aries - SAYONARA](https://www.youtube.com/watch?v=UqkpugVG0mU)
 - [Yxngxr1 - Tyler](https://www.youtube.com/watch?v=QQlfNX76bz4)
 - [Joji - XNXX](https://www.youtube.com/watch?v=TrqLMz-1cbQ)
-- [The Kid LAROI ft. Machine Gun Kelly - F_CK YOU, GOODBYE](https://www.youtube.com/watch?v=0644SfCHhIA)
 <!-- YOUTUBE:END -->
 
 <details> 
