@@ -40,7 +40,7 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
-- [iann dior - Holding On Audio](https://www.youtube.com/watch?v=actMRvg13SM)
+- [iann dior - Holding On (Audio)](https://www.youtube.com/watch?v=actMRvg13SM)
 - [Petit Biscuit - Full Moon](https://www.youtube.com/watch?v=SZWbJ8DL03A)
 - [CAROLINE - Pretend (Audio)](https://www.youtube.com/watch?v=W__wskd00RE)
 - [Aries - SAYONARA](https://www.youtube.com/watch?v=UqkpugVG0mU)
