@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [New Friends - Purple Candy](https://www.youtube.com/watch?v=weN4lieZpeU)
 - [Imagine Dragons - Levitate](https://www.youtube.com/watch?v=K4laBzw2lpY)
 - [OTR ft. Shallou - Heart](https://www.youtube.com/watch?v=z4K2yVoXj_E)
 - [GRITS ft. tobyMac - Ooh Ahh (My Life Be Like)](https://www.youtube.com/watch?v=XnbhxqluAJE)
 - [Novo Amor - Colourway](https://www.youtube.com/watch?v=g0sxEaXlMTo)
-- [Petit Biscuit - 3AM](https://www.youtube.com/watch?v=bs8rn2PK-CM)
 <!-- YOUTUBE:END -->
 
 <details> 
