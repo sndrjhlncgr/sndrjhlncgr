@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Machine Gun Kelly - Habits](https://www.youtube.com/watch?v=ZXAsRY5asK0)
 - [Post Malone - I Fall Apart (Lo-fi version)](https://www.youtube.com/watch?v=1uwtoyyt3Jk)
 - [New Friends - Purple Candy](https://www.youtube.com/watch?v=weN4lieZpeU)
 - [Imagine Dragons - Levitate](https://www.youtube.com/watch?v=K4laBzw2lpY)
 - [OTR ft. Shallou - Heart](https://www.youtube.com/watch?v=z4K2yVoXj_E)
-- [GRITS ft. tobyMac - Ooh Ahh (My Life Be Like)](https://www.youtube.com/watch?v=XnbhxqluAJE)
 <!-- YOUTUBE:END -->
 
 <details> 
