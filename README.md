@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Juice WRLD - Summer Hunger](https://www.youtube.com/watch?v=80rC4bn9rTU)
 - [Taylor Swift ft. Bon Iver - exile](https://www.youtube.com/watch?v=z5fDEjIKkrQ)
 - [Machine Gun Kelly - Habits](https://www.youtube.com/watch?v=ZXAsRY5asK0)
 - [Imagine Dragons - Levitate](https://www.youtube.com/watch?v=K4laBzw2lpY)
 - [OTR ft. Shallou - Heart](https://www.youtube.com/watch?v=z4K2yVoXj_E)
-- [GRITS ft. tobyMac - Ooh Ahh (My Life Be Like)](https://www.youtube.com/watch?v=XnbhxqluAJE)
 <!-- YOUTUBE:END -->
 
 <details> 
