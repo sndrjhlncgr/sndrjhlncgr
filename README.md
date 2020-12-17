@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Alexander 23, Jeremy Zucker - Nothing's The Same (Lyrics)](https://www.youtube.com/watch?v=y4sTOUMN1uU)
 - [New Friends - Purple Candy](https://www.youtube.com/watch?v=A5N0cqBikuo)
 - [Post Malone - I Fall Apart (Lo-fi ver.)](https://www.youtube.com/watch?v=JN-8YfSE2BY)
 - [Juice WRLD - Summer Hunger](https://www.youtube.com/watch?v=80rC4bn9rTU)
 - [Taylor Swift ft. Bon Iver - exile](https://www.youtube.com/watch?v=z5fDEjIKkrQ)
-- [Machine Gun Kelly - Habits](https://www.youtube.com/watch?v=ZXAsRY5asK0)
 <!-- YOUTUBE:END -->
 
 <details> 
