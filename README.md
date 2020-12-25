@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Rightfield - Alright](https://www.youtube.com/watch?v=TOudZRH9Fdo)
 - [Indii G. - Story's End](https://www.youtube.com/watch?v=ezGuWWYPuGo)
 - [Alexander 23 - IDK You Yet](https://www.youtube.com/watch?v=gdVjOHz42dg)
 - [CAROLINE - Healthy](https://www.youtube.com/watch?v=xosIdPEVv9c)
 - [M83 - Midnight City](https://www.youtube.com/watch?v=jlkkitqfb0o)
-- [Alexander 23, Jeremy Zucker - Nothing's The Same (w/Lyrics)](https://www.youtube.com/watch?v=y4sTOUMN1uU)
 <!-- YOUTUBE:END -->
 
 <details> 
