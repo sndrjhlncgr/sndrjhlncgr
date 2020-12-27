@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Halloween In Hell ft. iann dior - Empty Souls (UNRELEASED)](https://www.youtube.com/watch?v=Ctv84dg8Czg)
 - [Halloween In Hell ft. 24kGoldn, Machine Gun Kelly & Tommy Lee - Climb](https://www.youtube.com/watch?v=8kMM67Z1Ujc)
 - [Rightfield - Alright](https://www.youtube.com/watch?v=TOudZRH9Fdo)
 - [Indii G. - Story's End](https://www.youtube.com/watch?v=ezGuWWYPuGo)
 - [Alexander 23 - IDK You Yet](https://www.youtube.com/watch?v=gdVjOHz42dg)
-- [CAROLINE - Healthy](https://www.youtube.com/watch?v=xosIdPEVv9c)
 <!-- YOUTUBE:END -->
 
 <details> 
