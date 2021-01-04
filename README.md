@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Kygo ft. OneRepublic - Stranger Things](https://www.youtube.com/watch?v=oTP7gQ1jM4U)
 - [Kygo ft. Sandro Cavazza - Happy Now](https://www.youtube.com/watch?v=nUqFfKkBtzk)
 - [Jaymes Young - Happiest Year (Prince Fox Remix)](https://www.youtube.com/watch?v=ZX4IT63EpW0)
 - [The Weeknd - Blinding Lights](https://www.youtube.com/watch?v=6Tc1rQqjzxA)
 - [Halloween In Hell ft. iann dior - Empty Souls (UNRELEASED)](https://www.youtube.com/watch?v=Ctv84dg8Czg)
-- [Halloween In Hell ft. 24kGoldn, Machine Gun Kelly & Tommy Lee - Climb](https://www.youtube.com/watch?v=8kMM67Z1Ujc)
 <!-- YOUTUBE:END -->
 
 <details> 
