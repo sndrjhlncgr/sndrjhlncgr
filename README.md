@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Novo Amor - Colourway](https://www.youtube.com/watch?v=b2VbEvdAj7k)
 - [Yxngxr1 - Tyler](https://www.youtube.com/watch?v=Wn_l0XN7HMA)
 - [Novo Amor & Ed Tullett - Alps](https://www.youtube.com/watch?v=t3-aVZElIQQ)
 - [Jakub Żytecki - Grow Up](https://www.youtube.com/watch?v=DXUXBC8O8Cc)
 - [Kygo ft. OneRepublic - Stranger Things](https://www.youtube.com/watch?v=oTP7gQ1jM4U)
-- [Kygo ft. Sandro Cavazza - Happy Now](https://www.youtube.com/watch?v=nUqFfKkBtzk)
 <!-- YOUTUBE:END -->
 
 <details> 
