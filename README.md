@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Aries - DEITY](https://www.youtube.com/watch?v=b0EIvbKzfFU)
 - [Benji Lewis - Drift](https://www.youtube.com/watch?v=V9YrjW6-TwE)
 - [Novo Amor - Colourway](https://www.youtube.com/watch?v=b2VbEvdAj7k)
 - [Yxngxr1 - Tyler](https://www.youtube.com/watch?v=Wn_l0XN7HMA)
 - [Novo Amor & Ed Tullett - Alps](https://www.youtube.com/watch?v=t3-aVZElIQQ)
-- [Jakub Żytecki - Grow Up](https://www.youtube.com/watch?v=DXUXBC8O8Cc)
 <!-- YOUTUBE:END -->
 
 <details> 
