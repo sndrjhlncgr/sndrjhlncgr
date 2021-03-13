@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Liam Payne - Live Forever](https://www.youtube.com/watch?v=-FCC9ORNL0A)
 - [Lil Trashy - Nightmares](https://www.youtube.com/watch?v=i8bqMa24hFw)
 - [San Holo & Cassini - love wip](https://www.youtube.com/watch?v=REMdyxhoRR8)
 - [Aries - DEITY](https://www.youtube.com/watch?v=b0EIvbKzfFU)
 - [Benji Lewis - Drift](https://www.youtube.com/watch?v=V9YrjW6-TwE)
-- [Novo Amor - Colourway](https://www.youtube.com/watch?v=b2VbEvdAj7k)
 <!-- YOUTUBE:END -->
 
 <details> 
