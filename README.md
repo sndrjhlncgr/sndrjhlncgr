@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [The Temper Trap - Sweet Disposition](https://www.youtube.com/watch?v=j-MhEtvz0Og)
 - [The Chainsmokers ft. ROZES - Roses](https://www.youtube.com/watch?v=bzta9V0AMws)
 - [Liam Payne - Live Forever](https://www.youtube.com/watch?v=-FCC9ORNL0A)
 - [Lil Trashy - Nightmares](https://www.youtube.com/watch?v=i8bqMa24hFw)
 - [San Holo & Cassini - love wip](https://www.youtube.com/watch?v=REMdyxhoRR8)
-- [Aries - DEITY](https://www.youtube.com/watch?v=b0EIvbKzfFU)
 <!-- YOUTUBE:END -->
 
 <details> 
