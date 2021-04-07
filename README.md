@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [The Chainsmokers ft. Ty Dolla $ign, bülow - Do You Mean](https://www.youtube.com/watch?v=4QHmKby8Tv0)
 - [Troye Sivan ft. Alessia Cara - WILD](https://www.youtube.com/watch?v=SWOodjGBlIE)
 - [The Temper Trap - Sweet Disposition](https://www.youtube.com/watch?v=j-MhEtvz0Og)
 - [The Chainsmokers ft. ROZES - Roses](https://www.youtube.com/watch?v=bzta9V0AMws)
 - [Liam Payne - Live Forever](https://www.youtube.com/watch?v=-FCC9ORNL0A)
-- [Lil Trashy - Nightmares](https://www.youtube.com/watch?v=i8bqMa24hFw)
 <!-- YOUTUBE:END -->
 
 <details> 
