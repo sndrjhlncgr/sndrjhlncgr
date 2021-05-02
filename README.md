@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Louis The Child, Drew Love - Free](https://www.youtube.com/watch?v=RX_y9mm-UH8)
 - [Kygo, OneRepublic - Lose Somebody](https://www.youtube.com/watch?v=Ee8V1CF5Zyw)
 - [Before You Exit - When I'm Gone](https://www.youtube.com/watch?v=ShFhLlwBVZQ)
 - [Gavin Haley - idk where i'm at rn (Audio)](https://www.youtube.com/watch?v=_l_-7qFRg_c)
 - [The Chainsmokers ft. Ty Dolla $ign, bülow - Do You Mean](https://www.youtube.com/watch?v=4QHmKby8Tv0)
-- [Troye Sivan ft. Alessia Cara - WILD](https://www.youtube.com/watch?v=SWOodjGBlIE)
 <!-- YOUTUBE:END -->
 
 <details> 
