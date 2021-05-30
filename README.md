@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [6o - Tapatio](https://www.youtube.com/watch?v=wZMbf7VWp7k)
 - [DJ Snake - Frequency 75 | Fast & Furious 9 | Soundtrack](https://www.youtube.com/watch?v=jrztQPrp8aI)
 - [Gracie Abrams - Mess It Up](https://www.youtube.com/watch?v=oOxkhxkvE-8)
 - [Don Diablo & Steve Aoki x Lush & Simon ft. BullySongs - What We Started](https://www.youtube.com/watch?v=shCfQE0fMPY)
 - [Louis The Child, Drew Love - Free](https://www.youtube.com/watch?v=RX_y9mm-UH8)
-- [Kygo, OneRepublic - Lose Somebody](https://www.youtube.com/watch?v=Ee8V1CF5Zyw)
 <!-- YOUTUBE:END -->
 
 <details> 
