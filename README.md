@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [The Midnight - Lost & Found](https://www.youtube.com/watch?v=jQkJff-FMn8)
 - [The Script - Nothing](https://www.youtube.com/watch?v=FpGx32Qf2GQ)
 - [6o - Tapatio](https://www.youtube.com/watch?v=wZMbf7VWp7k)
 - [DJ Snake - Frequency 75 | Fast & Furious 9 | Soundtrack](https://www.youtube.com/watch?v=jrztQPrp8aI)
 - [Gracie Abrams - Mess It Up](https://www.youtube.com/watch?v=oOxkhxkvE-8)
-- [Don Diablo & Steve Aoki x Lush & Simon ft. BullySongs - What We Started](https://www.youtube.com/watch?v=shCfQE0fMPY)
 <!-- YOUTUBE:END -->
 
 <details> 
