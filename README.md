@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [A$AP Ferg ft. Future - New Level | Snake Eyes | Soundtrack](https://www.youtube.com/watch?v=ilVPfjN7ap0)
 - [Kids See Ghosts - Feel The Love | Fast & Furious 9 | Soundtrack](https://www.youtube.com/watch?v=SlVzFJ3YSQ4)
 - [The Midnight - Lost & Found](https://www.youtube.com/watch?v=jQkJff-FMn8)
 - [The Script - Nothing](https://www.youtube.com/watch?v=FpGx32Qf2GQ)
 - [6o - Tapatio](https://www.youtube.com/watch?v=wZMbf7VWp7k)
-- [DJ Snake - Frequency 75 | Fast & Furious 9 | Soundtrack](https://www.youtube.com/watch?v=jrztQPrp8aI)
 <!-- YOUTUBE:END -->
 
 <details> 
