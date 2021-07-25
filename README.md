@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [The Kid LAROI ft. Justin Bieber - Stay](https://www.youtube.com/watch?v=3Jhr2lM-KlA)
 - [PnB Rock, Kodak Black & A Boogie - Horses](https://www.youtube.com/watch?v=ZHh6grJENSQ)
 - [Said The Sky, Olivver the Kid - We Know Who We Are (Audio)](https://www.youtube.com/watch?v=rr7IFFU7s1k)
 - [Drug Store Romeos - Frame of Reference](https://www.youtube.com/watch?v=h8H6k2Hf42s)
 - [A$AP Ferg ft. Future - New Level | Snake Eyes | Soundtrack](https://www.youtube.com/watch?v=ilVPfjN7ap0)
-- [Kids See Ghosts - Feel The Love | Fast & Furious 9 | Soundtrack](https://www.youtube.com/watch?v=SlVzFJ3YSQ4)
 <!-- YOUTUBE:END -->
 
 <details> 
