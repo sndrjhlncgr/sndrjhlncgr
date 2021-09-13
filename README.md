@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Oliver Tree - Life Goes On](https://www.youtube.com/watch?v=oGLgJ6N9eZc)
 - [Vancouver Sleep Clinic - Someone to Stay](https://www.youtube.com/watch?v=O2rJe0SmjaU)
 - [Herman & Young Marcell - So Mad](https://www.youtube.com/watch?v=NOiIIm16F5E)
 - [Kygo ft. Zoe Wees - Love Me Now](https://www.youtube.com/watch?v=fkhXHGh1mFQ)
 - [Said The Sky - Treading Water (Audio)](https://www.youtube.com/watch?v=mlatsk4SqUY)
-- [Lund - F*ck Love](https://www.youtube.com/watch?v=k8y0IqcCB4c)
 <!-- YOUTUBE:END -->
 
 <details> 
