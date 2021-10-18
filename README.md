@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
+- [Tim Schaufert and TRØVES - in a different light](https://www.youtube.com/watch?v=tHHWDjrXgcw)
 - [ayokay - Swing Swing](https://www.youtube.com/watch?v=1CtyXJW6tYY)
 - [Said The Sky ft. The Maine - Go On Then, Love](https://www.youtube.com/watch?v=yUDbaW7GLFc)
 - [Phoenix - Lisztomania](https://www.youtube.com/watch?v=Os40Ysk6ip0)
 - [Lil Nas X - THATS WHAT I WANT](https://www.youtube.com/watch?v=zMAL7px15yk)
-- [Oliver Tree - Life Goes On](https://www.youtube.com/watch?v=oGLgJ6N9eZc)
 <!-- YOUTUBE:END -->
 
 <details> 
