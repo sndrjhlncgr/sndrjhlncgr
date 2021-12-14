@@ -4,7 +4,7 @@
 - :shipit: I’m currently learning a [Python for Everybody Specialization][coursera]
 - 🎧 I like listening to music
 - 🔎 I’m looking to collaborate with other content creators
-- 🏁 2020 Goals: Contribute more to Open Source projects
+- 🏁 2022 Goals: Contribute more to Open Source projects
 - 💯 My hobby is to play games, coding and design anything
 - 🐶 Yeah i don't have work experience cause im nitpicky  
 ### Connect with me
