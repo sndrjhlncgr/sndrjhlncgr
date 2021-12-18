@@ -40,11 +40,11 @@
 ### Latest Youtube Videos
 [<img src="https://youtube-status.vercel.app/api/run-youtube-status" alt="Youtube Channel" width="380"/>](https://www.youtube.com/channel/UCi3mbICnce7yIU1NGhgoSPw)
 <!-- YOUTUBE:START -->
-- [SAND PEOPLE - Ashes To Amber](https://www.youtube.com/watch?v=rOVnsQOtrCE)
+- [Devault ft. Griff Clawson - Leave Me Low](https://www.youtube.com/watch?v=xPOX_QGGr2g)
+- [Ashes To Amber - SAND PEOPLE](https://www.youtube.com/watch?v=rOVnsQOtrCE)
 - [Juice WRLD &amp; The Kid Laroi - Reminds Me Of You](https://www.youtube.com/watch?v=iabP6HPQ2YQ)
 - [Denzel Curry, Gizzle &amp; Bren Joy - Dynasties &amp; Dystopia | Arcane League of Legends | Riot Games Music](https://www.youtube.com/watch?v=2F_NoG5WT44)
 - [Avril Lavigne - Bite Me](https://www.youtube.com/watch?v=2ELVvT9kd7Q)
-- [ayokay ft. Quinn XCII - Queen](https://www.youtube.com/watch?v=Wc1SiU44A0k)
 <!-- YOUTUBE:END -->
 
 <details> 
