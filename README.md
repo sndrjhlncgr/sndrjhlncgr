@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [347aidan - MEMORIES!](https://www.youtube.com/watch?v=yU4Gh9drO8E)
 - [Devault ft. Griff Clawson - Leave Me Low](https://www.youtube.com/watch?v=xPOX_QGGr2g)
 - [Ashes To Amber - SAND PEOPLE](https://www.youtube.com/watch?v=rOVnsQOtrCE)
 - [Juice WRLD &amp; The Kid Laroi - Reminds Me Of You](https://www.youtube.com/watch?v=iabP6HPQ2YQ)
 - [Denzel Curry, Gizzle &amp; Bren Joy - Dynasties &amp; Dystopia | Arcane League of Legends | Riot Games Music](https://www.youtube.com/watch?v=2F_NoG5WT44)
-- [Avril Lavigne - Bite Me](https://www.youtube.com/watch?v=2ELVvT9kd7Q)
 <!-- YOUTUBE:END -->
 
 <details> 
