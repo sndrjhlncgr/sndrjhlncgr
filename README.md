@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Sam Fender - Seventeen Going Under](https://www.youtube.com/watch?v=zJlbFvRgAeI)
 - [Dylan Matthew - Saturday Night](https://www.youtube.com/watch?v=-oY7lNSHvro)
 - [347aidan - MEMORIES!](https://www.youtube.com/watch?v=yU4Gh9drO8E)
 - [Devault ft. Griff Clawson - Leave Me Low](https://www.youtube.com/watch?v=xPOX_QGGr2g)
 - [Ashes To Amber - SAND PEOPLE](https://www.youtube.com/watch?v=rOVnsQOtrCE)
-- [Juice WRLD &amp; The Kid Laroi - Reminds Me Of You](https://www.youtube.com/watch?v=iabP6HPQ2YQ)
 <!-- YOUTUBE:END -->
 
 <details> 
