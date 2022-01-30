@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Oliver Tree - Cowboys Don&#39;t Cry](https://www.youtube.com/watch?v=fd3snxR2B7o)
 - [Sam Fender - Seventeen Going Under](https://www.youtube.com/watch?v=zJlbFvRgAeI)
 - [Dylan Matthew - Saturday Night](https://www.youtube.com/watch?v=-oY7lNSHvro)
 - [347aidan - MEMORIES!](https://www.youtube.com/watch?v=yU4Gh9drO8E)
 - [Devault ft. Griff Clawson - Leave Me Low](https://www.youtube.com/watch?v=xPOX_QGGr2g)
-- [Ashes To Amber - SAND PEOPLE](https://www.youtube.com/watch?v=rOVnsQOtrCE)
 <!-- YOUTUBE:END -->
 
 <details> 
