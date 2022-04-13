@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Suisside - Keys to Your Heart](https://www.youtube.com/watch?v=-SN3uHZvD9A)
 - [Cinema Kid - Satellite](https://www.youtube.com/watch?v=DmkmgEIL4fc)
 - [C. James - Got You](https://www.youtube.com/watch?v=EyI8VnBDZFQ)
 - [Will Linley - miss me &lpar;when you&#39;re gone&rpar;](https://www.youtube.com/watch?v=suX3hudFVbU)
 - [Radical Face - Welcome Home](https://www.youtube.com/watch?v=oZXICsNk6nw)
-- [Brandt - Know You Better](https://www.youtube.com/watch?v=63dpWBa6_c0)
 <!-- YOUTUBE:END -->
 
 <details> 
