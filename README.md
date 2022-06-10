@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Kid Cudi - Do What I Want](https://www.youtube.com/watch?v=oA22XOWyXoc)
 - [Ryan Caraveo - Daisies](https://www.youtube.com/watch?v=Imyg5qwEh9E)
 - [Mystk - Lost](https://www.youtube.com/watch?v=ulAO7_JoTqI)
 - [eaJ - Car Crash](https://www.youtube.com/watch?v=nVmfnFY5K4o)
 - [COLETON RUBIN - Zebra](https://www.youtube.com/watch?v=nihBH3J-dMc)
-- [Suisside - Keys to Your Heart](https://www.youtube.com/watch?v=-SN3uHZvD9A)
 <!-- YOUTUBE:END -->
 
 <details> 
