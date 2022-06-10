@@ -39,11 +39,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Ryan Caraveo - Daisies](https://www.youtube.com/watch?v=Imyg5qwEh9E)
 - [Mystk - Lost](https://www.youtube.com/watch?v=ulAO7_JoTqI)
 - [eaJ - Car Crash](https://www.youtube.com/watch?v=nVmfnFY5K4o)
 - [COLETON RUBIN - Zebra](https://www.youtube.com/watch?v=nihBH3J-dMc)
 - [Suisside - Keys to Your Heart](https://www.youtube.com/watch?v=-SN3uHZvD9A)
-- [Cinema Kid - Satellite](https://www.youtube.com/watch?v=DmkmgEIL4fc)
 <!-- YOUTUBE:END -->
 
 <details> 
