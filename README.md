@@ -1,6 +1,6 @@
 ### Spotify Playing Now 
 [<img src="https://readme-spotify-status-rho.vercel.app/api/run-spotify-status.py" alt="s4nx Playing Now" width="380" />](https://open.spotify.com/playlist/0f2jH42JiPpC1K7E87RA3C)
-### I'm a Gamer, Programmer, Developer, and Youtube Content Creator!
+### I'm a Gamer, Programmer, Developer, Graphic Designer and Youtube Content Creator!
 - :shipit: I’m currently learning a [Python for Everybody Specialization][coursera]
 - 🎧 I like listening to music
 - 🔎 I’m looking to collaborate with other content creators
