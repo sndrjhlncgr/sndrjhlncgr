@@ -38,11 +38,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [changing cleo - stay](https://www.youtube.com/watch?v=K_WwLXTyd1w)
 - [EMO - Someday](https://www.youtube.com/watch?v=CZFqhX-Ku8U)
 - [Ryan Caraveo - How to Luv Me](https://www.youtube.com/watch?v=45ykh7NxsK8)
 - [Kid Cudi - Do What I Want](https://www.youtube.com/watch?v=oA22XOWyXoc)
 - [Ryan Caraveo - Daisies](https://www.youtube.com/watch?v=Imyg5qwEh9E)
-- [Mystk - Lost](https://www.youtube.com/watch?v=ulAO7_JoTqI)
 <!-- YOUTUBE:END -->
 
 <details> 
