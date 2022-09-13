@@ -38,11 +38,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Aadi Rip &amp; Radio Stanley - Different](https://www.youtube.com/watch?v=Fq2-zbgZrAQ)
 - [Nick Mulvey - Fever To The Form](https://www.youtube.com/watch?v=kABJ8n5wYd8)
 - [changing cleo - stay](https://www.youtube.com/watch?v=K_WwLXTyd1w)
 - [EMO - Someday](https://www.youtube.com/watch?v=CZFqhX-Ku8U)
 - [Ryan Caraveo - How to Luv Me](https://www.youtube.com/watch?v=45ykh7NxsK8)
-- [Kid Cudi - Do What I Want](https://www.youtube.com/watch?v=oA22XOWyXoc)
 <!-- YOUTUBE:END -->
 
 <details> 
