@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Jaguar Sun - With You](https://www.youtube.com/watch?v=E3cIiTjl_ew)
 - [Cathedral Bells - Dayflower](https://www.youtube.com/watch?v=jVyo0BkidF4)
 - [Tourist - Emily](https://www.youtube.com/watch?v=9WNVjnY_NfA)
 - [Aadi Rip &amp; Radio Stanley - Different](https://www.youtube.com/watch?v=Fq2-zbgZrAQ)
 - [Nick Mulvey - Fever To The Form](https://www.youtube.com/watch?v=kABJ8n5wYd8)
-- [changing cleo - stay](https://www.youtube.com/watch?v=K_WwLXTyd1w)
 <!-- YOUTUBE:END -->
 
 <details> 
