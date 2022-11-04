@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Last of Us - Part ll](https://www.youtube.com/watch?v=Bk5PLyIVVSw)
 - [Surfaces - Rooftops](https://www.youtube.com/watch?v=DepDIrHfoo8)
 - [Jaguar Sun - With You](https://www.youtube.com/watch?v=E3cIiTjl_ew)
 - [Cathedral Bells - Dayflower](https://www.youtube.com/watch?v=jVyo0BkidF4)
 - [Tourist - Emily](https://www.youtube.com/watch?v=9WNVjnY_NfA)
-- [Aadi Rip &amp; Radio Stanley - Different](https://www.youtube.com/watch?v=Fq2-zbgZrAQ)
 <!-- YOUTUBE:END -->
 
 <details> 
