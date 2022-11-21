@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Daulton Hopkins - I&#39;m Okay and So Are You](https://www.youtube.com/watch?v=uTtXvqoNm3c)
 - [@elijah woods - Part ll](https://www.youtube.com/watch?v=pPsUWqoENUA)
 - [@elijah woods - Part l](https://www.youtube.com/watch?v=_rWsPgBFeIU)
 - [Blue Lane ft. DAVI - Home](https://www.youtube.com/watch?v=3vs30OSYHNo)
 - [The Last of Us - Part ll](https://www.youtube.com/watch?v=Bk5PLyIVVSw)
-- [Surfaces - Rooftops](https://www.youtube.com/watch?v=DepDIrHfoo8)
 <!-- YOUTUBE:END -->
 
 <details> 
