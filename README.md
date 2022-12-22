@@ -33,8 +33,8 @@
 - [flor - warm blood &lpar;reimagined&rpar;](https://www.youtube.com/watch?v=PE26Bdyf3DA)
 - [Kygo &amp; Dean Lewis - Lost Without You](https://www.youtube.com/watch?v=MYGgXj5_v90)
 - [Daulton Hopkins - I&#39;m Okay and So Are You](https://www.youtube.com/watch?v=uTtXvqoNm3c)
-- [@elijah woods - Part ll](https://www.youtube.com/watch?v=pPsUWqoENUA)
-- [@elijah woods - Part l](https://www.youtube.com/watch?v=_rWsPgBFeIU)
+- [@elijahwoods - Part ll](https://www.youtube.com/watch?v=pPsUWqoENUA)
+- [@elijahwoods - Part l](https://www.youtube.com/watch?v=_rWsPgBFeIU)
 <!-- YOUTUBE:END -->
 
 <details> 
