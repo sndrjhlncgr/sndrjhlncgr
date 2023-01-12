@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Virginia To Vegas - outerspace](https://www.youtube.com/watch?v=7_n3Qt0t1pc)
 - [The Box - Auralen](https://www.youtube.com/watch?v=PRv2Ak0Du3w)
 - [flor - warm blood &lpar;reimagined&rpar;](https://www.youtube.com/watch?v=PE26Bdyf3DA)
 - [Kygo &amp; Dean Lewis - Lost Without You](https://www.youtube.com/watch?v=MYGgXj5_v90)
 - [Daulton Hopkins - I&#39;m Okay and So Are You](https://www.youtube.com/watch?v=uTtXvqoNm3c)
-- [@elijahwoods - Part ll](https://www.youtube.com/watch?v=pPsUWqoENUA)
 <!-- YOUTUBE:END -->
 
 <details> 
