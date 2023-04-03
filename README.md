@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Blue - SAIAH](https://www.youtube.com/watch?v=GSdpcBm0-6w)
 - [Mind Games - Verzache](https://www.youtube.com/watch?v=UYYz7A2ZCNw)
 - [Lost Me - Giveon](https://www.youtube.com/watch?v=UdCIhHfk3Qw)
 - [Virginia To Vegas - outerspace](https://www.youtube.com/watch?v=7_n3Qt0t1pc)
 - [The Box - Auralen](https://www.youtube.com/watch?v=PRv2Ak0Du3w)
-- [flor - warm blood &lpar;reimagined&rpar;](https://www.youtube.com/watch?v=PE26Bdyf3DA)
 <!-- YOUTUBE:END -->
 
 <details> 
