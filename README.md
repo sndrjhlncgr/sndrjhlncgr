@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Verzache - Call My Own](https://www.youtube.com/watch?v=z2nQkQCll7M)
 - [hummingbird - The Haunting](https://www.youtube.com/watch?v=GMnCdv3z9Vw)
 - [Chemical - Post Malone](https://www.youtube.com/watch?v=5A7vPMuHsmw)
 - [Blue - SAIAH](https://www.youtube.com/watch?v=GSdpcBm0-6w)
 - [Mind Games - Verzache](https://www.youtube.com/watch?v=UYYz7A2ZCNw)
-- [Lost Me - Giveon](https://www.youtube.com/watch?v=UdCIhHfk3Qw)
 <!-- YOUTUBE:END -->
 
 <details> 
