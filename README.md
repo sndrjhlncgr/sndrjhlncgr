@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Luffy &lpar;Gear 5&rpar; #onepiece #gear5](https://www.youtube.com/watch?v=eBtFZLQXEGY)
 - [Soul changed my life. #soul](https://www.youtube.com/watch?v=DVEtYzuYrhw)
 - [what if](https://www.youtube.com/watch?v=P9LI6ljIpBA)
 - [Clairo - Bags &lpar;Recorded At Electric Lady Studios&rpar;](https://www.youtube.com/watch?v=3wIdExLcnrQ)
 - [blink-182 - ONE MORE TIME](https://www.youtube.com/watch?v=qYDHzq8ooGM)
-- [Coldplay - Life in Technicolor ii](https://www.youtube.com/watch?v=EIsz4bNjSks)
 <!-- YOUTUBE:END -->
 
 <details> 
