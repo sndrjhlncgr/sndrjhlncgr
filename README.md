@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Pursuit of Happiness #kidcudi #spiderman2](https://www.youtube.com/watch?v=af9uFD3GdT0)
 - [しぐれうい #uishigure](https://www.youtube.com/watch?v=tLci9Fv15Rc)
 - [Sunflower #postmalone  #spiderman2 #swaelee](https://www.youtube.com/watch?v=jBwJn7oTSuk)
 - [Neptune - nowhere fast](https://www.youtube.com/watch?v=In2N8zA_8so)
 - [What if The MCU was filmed vertically? #mcu  #verticalvideo](https://www.youtube.com/watch?v=8r_mrs_m164)
-- [Luffy &lpar;Gear 5&rpar; #onepiece #gear5](https://www.youtube.com/watch?v=eBtFZLQXEGY)
 <!-- YOUTUBE:END -->
 
 <details> 
