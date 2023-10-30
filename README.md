@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [ロリこより #uishigure  #ロリ神レクイエム](https://www.youtube.com/watch?v=bVrMRqOb410)
 - [ロリ神のサビです #uishigure](https://www.youtube.com/watch?v=qKwl3x2CvpI)
 - [For All The Dogs #drake  #forallthedogs](https://www.youtube.com/watch?v=QozqRbBcSPY)
 - [Pursuit of Happiness #kidcudi #spiderman2](https://www.youtube.com/watch?v=af9uFD3GdT0)
 - [しぐれうい #uishigure](https://www.youtube.com/watch?v=tLci9Fv15Rc)
-- [Sunflower #postmalone  #spiderman2 #swaelee](https://www.youtube.com/watch?v=jBwJn7oTSuk)
 <!-- YOUTUBE:END -->
 
 <details> 
