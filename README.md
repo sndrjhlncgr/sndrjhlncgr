@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [숙성!! 로리신 레퀴엠☆ 粛聖!!ロリ神レクイエム☆&lpar;しぐれうい&rpar; 칸나ver #shorts](https://www.youtube.com/watch?v=RnzxUqeZzaI)
 - [choose your cartoon #cartoon #aesthetic](https://www.youtube.com/watch?v=p2TFkuqMLOE)
 - [ロリこより #uishigure  #ロリ神レクイエム](https://www.youtube.com/watch?v=bVrMRqOb410)
 - [ロリ神のサビです #uishigure](https://www.youtube.com/watch?v=qKwl3x2CvpI)
 - [For All The Dogs #drake  #forallthedogs](https://www.youtube.com/watch?v=QozqRbBcSPY)
-- [Pursuit of Happiness #kidcudi #spiderman2](https://www.youtube.com/watch?v=af9uFD3GdT0)
 <!-- YOUTUBE:END -->
 
 <details> 
