@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Realization of a futuristic short film comparison before and after editing the video. #editing](https://www.youtube.com/watch?v=AhWKs3fwpq0)
 - [ロリこより #uishigure  #ロリ神レクイエム](https://www.youtube.com/watch?v=bVrMRqOb410)
 - [ロリ神のサビです #uishigure](https://www.youtube.com/watch?v=qKwl3x2CvpI)
 - [For All The Dogs #drake  #forallthedogs](https://www.youtube.com/watch?v=QozqRbBcSPY)
 - [Pursuit of Happiness #kidcudi #spiderman2](https://www.youtube.com/watch?v=af9uFD3GdT0)
-- [しぐれうい #uishigure](https://www.youtube.com/watch?v=tLci9Fv15Rc)
 <!-- YOUTUBE:END -->
 
 <details> 
