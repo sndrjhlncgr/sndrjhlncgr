@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Light Goes On #darius_twin #lightmotion](https://www.youtube.com/watch?v=mC88JbfnvIQ)
 - [숙성!! 로리신 레퀴엠☆ 粛聖!!ロリ神レクイエム☆&lpar;しぐれうい&rpar; 칸나ver #shorts](https://www.youtube.com/watch?v=RnzxUqeZzaI)
 - [ロリこより #uishigure  #ロリ神レクイエム](https://www.youtube.com/watch?v=bVrMRqOb410)
 - [ロリ神のサビです #uishigure](https://www.youtube.com/watch?v=qKwl3x2CvpI)
 - [Pursuit of Happiness #kidcudi #spiderman2](https://www.youtube.com/watch?v=af9uFD3GdT0)
-- [しぐれうい #uishigure](https://www.youtube.com/watch?v=tLci9Fv15Rc)
 <!-- YOUTUBE:END -->
 
 <details> 
