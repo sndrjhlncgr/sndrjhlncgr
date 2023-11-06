@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [bags #clairo #bags](https://www.youtube.com/watch?v=AqdABQyajoM)
 - [Wolverine? #spiderman2 #spiderman](https://www.youtube.com/watch?v=kQZ-cW3jsA8)
 - [Am i dreaming #spiderman2 #amidreaming](https://www.youtube.com/watch?v=CHlW2kEfI4M)
 - [Light Goes On #darius_twin #lightmotion](https://www.youtube.com/watch?v=mC88JbfnvIQ)
 - [숙성!! 로리신 레퀴엠☆ 粛聖!!ロリ神レクイエム☆&lpar;しぐれうい&rpar; 칸나ver #shorts](https://www.youtube.com/watch?v=RnzxUqeZzaI)
-- [ロリこより #uishigure  #ロリ神レクイエム](https://www.youtube.com/watch?v=bVrMRqOb410)
 <!-- YOUTUBE:END -->
 
 <details> 
