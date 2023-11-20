@@ -30,7 +30,7 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Natalie Holt - Purpose Is Glorious](https://www.youtube.com/watch?v=4FPMpYA9yS0)
+- [Natalie Holt - Purpose Is Glorious &lpar;From &quot;Loki: Season 2 - Vol. 2 &lpar;Episodes 4-6&rpar;&quot;&rpar;](https://www.youtube.com/watch?v=4FPMpYA9yS0)
 - [bags #clairo #bags](https://www.youtube.com/watch?v=AqdABQyajoM)
 - [Wolverine? #spiderman2 #spiderman](https://www.youtube.com/watch?v=kQZ-cW3jsA8)
 - [Am i dreaming #spiderman2 #amidreaming](https://www.youtube.com/watch?v=CHlW2kEfI4M)
