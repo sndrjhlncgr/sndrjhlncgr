@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Staffan Carlén - Always Been a Dreamer](https://www.youtube.com/watch?v=b9ahzwdNMx8)
 - [hard times &lpar;somebody&#39;s getting fired version&rpar;    #paramore #thisiswhytour #paramoremelbourne](https://www.youtube.com/watch?v=fG_9a057TU8)
 - [Natalie Holt - Purpose Is Glorious &lpar;From &quot;Loki: Season 2 - Vol. 2 &lpar;Episodes 4-6&rpar;&quot;&rpar;](https://www.youtube.com/watch?v=4FPMpYA9yS0)
 - [bags #clairo #bags](https://www.youtube.com/watch?v=AqdABQyajoM)
 - [Am i dreaming #spiderman2 #amidreaming](https://www.youtube.com/watch?v=CHlW2kEfI4M)
-- [숙성!! 로리신 레퀴엠☆ 粛聖!!ロリ神レクイエム☆&lpar;しぐれうい&rpar; 칸나ver #shorts](https://www.youtube.com/watch?v=RnzxUqeZzaI)
 <!-- YOUTUBE:END -->
 
 <details> 
