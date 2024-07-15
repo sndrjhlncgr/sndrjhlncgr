@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [MINOVA - Where Do I Go](https://www.youtube.com/watch?v=XJ6LkCAPLcw)
 - [state lines #novoamprjakarta #novoamor](https://www.youtube.com/watch?v=vONuVK-SOrs)
 - [Robbers Live in Birmingham #the1975](https://www.youtube.com/watch?v=9qp3c8ikwwA)
 - [Staffan Carlén - Always Been a Dreamer](https://www.youtube.com/watch?v=b9ahzwdNMx8)
 - [hard times &lpar;somebody&#39;s getting fired version&rpar;    #paramore #thisiswhytour #paramoremelbourne](https://www.youtube.com/watch?v=fG_9a057TU8)
-- [Natalie Holt - Purpose Is Glorious &lpar;From &quot;Loki: Season 2 - Vol. 2 &lpar;Episodes 4-6&rpar;&quot;&rpar;](https://www.youtube.com/watch?v=4FPMpYA9yS0)
 <!-- YOUTUBE:END -->
 
 <details> 
