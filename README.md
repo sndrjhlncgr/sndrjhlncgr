@@ -33,8 +33,8 @@
 - [linkinpark IS OFFICIALLY BACK 😭❤️‍🔥 #linkinpark #theemptinessmachine #newrelease](https://www.youtube.com/watch?v=pu7nWSdMyhQ)
 - [finally announced his new vocalist and we couldn&#39;t like it better. #linkinpark #emilyarmstrong](https://www.youtube.com/watch?v=uSzoOPjK59I)
 - [Krooked Kings - Catacombs](https://www.youtube.com/watch?v=a1-NCkc2n4I)
-- [&quot;New mask, same task&quot; #sdcc](https://www.youtube.com/watch?v=AsYisi5p4vk)
 - [MINOVA - Where Do I Go](https://www.youtube.com/watch?v=XJ6LkCAPLcw)
+- [state lines #novoamprjakarta #novoamor](https://www.youtube.com/watch?v=vONuVK-SOrs)
 <!-- YOUTUBE:END -->
 
 <details> 
