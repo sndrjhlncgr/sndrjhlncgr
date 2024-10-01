@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [What I&#39;ve Done, Live from Los Angeles, Sept 5th. #fromzero  #linkinpark](https://www.youtube.com/watch?v=Sk3xz-FLSUM)
+- [“Heavy Is The Crown,” the @leagueoflegends  #worlds2024 anthem is out now.](https://www.youtube.com/watch?v=W9SMufm0Y-A)
 - [Numb, Live from Los Angeles, Sept 5th. #linkinpark #numblinkinpark #losangeles](https://www.youtube.com/watch?v=6AhvUWUvJQ0)
 - [‘Co-Pathetic’ live from my studio. North American tour starts today. #novoamor](https://www.youtube.com/watch?v=hpgDDTizGyw)
 - [linkinpark IS OFFICIALLY BACK 😭❤️‍🔥 #linkinpark #theemptinessmachine #newrelease](https://www.youtube.com/watch?v=pu7nWSdMyhQ)
-- [finally announced his new vocalist and we couldn&#39;t like it better. #linkinpark #emilyarmstrong](https://www.youtube.com/watch?v=uSzoOPjK59I)
-- [Krooked Kings - Catacombs](https://www.youtube.com/watch?v=a1-NCkc2n4I)
 <!-- YOUTUBE:END -->
 
 <details> 
