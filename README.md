@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [i miss you, im sorry!!🤍 @GracieAbrams #gracieabrams](https://www.youtube.com/watch?v=d03syi-Rhbk)
+- [This performance has been on repeat #glastonbury  #coldplay #michaeljfox](https://www.youtube.com/watch?v=KrlSdXmRu2c)
 - [Waiting for the end. #linkinpark #waitingfortheend](https://www.youtube.com/watch?v=8zO7Vwsu_7A)
 - [Linkin Park - The Emptiness Machine](https://www.youtube.com/watch?v=kUZmzj1eHVg)
 - [Llunr - Rebels of the Rule](https://www.youtube.com/watch?v=pQ1LKmACF2E)
-- [What I&#39;ve Done, Live from Los Angeles, Sept 5th. #fromzero  #linkinpark](https://www.youtube.com/watch?v=Sk3xz-FLSUM)
-- [“Heavy Is The Crown,” the @leagueoflegends  #worlds2024 anthem is out now.](https://www.youtube.com/watch?v=W9SMufm0Y-A)
 <!-- YOUTUBE:END -->
 
 <details> 
