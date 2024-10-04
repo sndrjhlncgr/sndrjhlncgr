@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Llunr - Rebels of the Rule](https://www.youtube.com/watch?v=pQ1LKmACF2E)
 - [What I&#39;ve Done, Live from Los Angeles, Sept 5th. #fromzero  #linkinpark](https://www.youtube.com/watch?v=Sk3xz-FLSUM)
 - [“Heavy Is The Crown,” the @leagueoflegends  #worlds2024 anthem is out now.](https://www.youtube.com/watch?v=W9SMufm0Y-A)
 - [Numb, Live from Los Angeles, Sept 5th. #linkinpark #numblinkinpark #losangeles](https://www.youtube.com/watch?v=6AhvUWUvJQ0)
 - [‘Co-Pathetic’ live from my studio. North American tour starts today. #novoamor](https://www.youtube.com/watch?v=hpgDDTizGyw)
-- [linkinpark IS OFFICIALLY BACK 😭❤️‍🔥 #linkinpark #theemptinessmachine #newrelease](https://www.youtube.com/watch?v=pu7nWSdMyhQ)
 <!-- YOUTUBE:END -->
 
 <details> 
