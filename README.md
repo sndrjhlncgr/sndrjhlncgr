@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [KENDRICKS FIRST TIME PERFORMING NOT LIKE US AT  #kendricklamar #kendrick](https://www.youtube.com/watch?v=IQdeqWZYKVA)
 - [i miss you, im sorry!!🤍 @GracieAbrams #gracieabrams](https://www.youtube.com/watch?v=d03syi-Rhbk)
 - [This performance has been on repeat #glastonbury  #coldplay #michaeljfox](https://www.youtube.com/watch?v=KrlSdXmRu2c)
 - [Waiting for the end. #linkinpark #waitingfortheend](https://www.youtube.com/watch?v=8zO7Vwsu_7A)
 - [Linkin Park - The Emptiness Machine](https://www.youtube.com/watch?v=kUZmzj1eHVg)
-- [Llunr - Rebels of the Rule](https://www.youtube.com/watch?v=pQ1LKmACF2E)
 <!-- YOUTUBE:END -->
 
 <details> 
