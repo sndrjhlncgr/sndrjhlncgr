@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Gracie Abrams #gracieabrams #thesecrettofustour #letithappen](https://www.youtube.com/watch?v=K5-AeUiRxqs)
 - [Music Taste Live Stream](https://www.youtube.com/watch?v=eVtrWxJE7ig)
 - [Good 4 U 💜 #oliviarodrigo #gutstour](https://www.youtube.com/watch?v=XZsGtvSJd04)
 - [Madison in cologne 🤍 #madison #madisonbeer #spinnintour](https://www.youtube.com/watch?v=ZRASjm0N53A)
 - [WEST COAST BEST COAST #oliviarodrigo #guts #gutstour](https://www.youtube.com/watch?v=xpp4aS2spow)
+- [KENDRICKS FIRST TIME PERFORMING NOT LIKE US AT  #kendricklamar #kendrick](https://www.youtube.com/watch?v=IQdeqWZYKVA)
 <!-- YOUTUBE:END -->
 
 <details> 
