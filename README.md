@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [gracie serving voice #gracieabrams #thesecretofustour #letithappen](https://www.youtube.com/watch?v=OCYYzotqKZ4)
+- [Full Concert Olivia Rodrigo GUTS World Tour | Live in Bangkok | 15/09/24 4K UHD](https://www.youtube.com/watch?v=WPfNodL1YCo)
 - [LINKIN PARK - Waiting for the end, London #linkinpark #waitingfortheend](https://www.youtube.com/watch?v=NF62iN-svFw)
 - [Music Taste Live Stream](https://www.youtube.com/watch?v=eVtrWxJE7ig)
 - [Good 4 U 💜 #oliviarodrigo #gutstour](https://www.youtube.com/watch?v=XZsGtvSJd04)
-- [Madison in cologne 🤍 #madison #madisonbeer #spinnintour](https://www.youtube.com/watch?v=ZRASjm0N53A)
-- [WEST COAST BEST COAST #oliviarodrigo #guts #gutstour](https://www.youtube.com/watch?v=xpp4aS2spow)
 <!-- YOUTUBE:END -->
 
 <details> 
