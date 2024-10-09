@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Eminem today in #detroit #eminem #eminemfan](https://www.youtube.com/watch?v=k0_BtArWYiM)
 - [Olivia Rodrigo - Traitor | The Guts Tour Manila 2024 #oliviarodrigo #oliviarodrigoguts](https://www.youtube.com/watch?v=g_0SUoQchsE)
 - [gracie serving voice #gracieabrams #thesecretofustour #letithappen](https://www.youtube.com/watch?v=OCYYzotqKZ4)
 - [Full Concert Olivia Rodrigo GUTS World Tour | Live in Bangkok | 15/09/24 4K UHD](https://www.youtube.com/watch?v=WPfNodL1YCo)
 - [LINKIN PARK - Waiting for the end, London #linkinpark #waitingfortheend](https://www.youtube.com/watch?v=NF62iN-svFw)
-- [Good 4 U 💜 #oliviarodrigo #gutstour](https://www.youtube.com/watch?v=XZsGtvSJd04)
 <!-- YOUTUBE:END -->
 
 <details> 
