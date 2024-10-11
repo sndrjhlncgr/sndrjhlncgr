@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Uptown Funk - Bruno Mars Mexico City #brunomars #uptownfunk](https://www.youtube.com/watch?v=6aZFKNz6Tro)
 - [#chrisbrown concert in Denver #denver](https://www.youtube.com/watch?v=xezbF_3opas)
 - [Eminem today in #detroit #eminem #eminemfan](https://www.youtube.com/watch?v=k0_BtArWYiM)
 - [Olivia Rodrigo - Traitor | The Guts Tour Manila 2024 #oliviarodrigo #oliviarodrigoguts](https://www.youtube.com/watch?v=g_0SUoQchsE)
 - [gracie serving voice #gracieabrams #thesecretofustour #letithappen](https://www.youtube.com/watch?v=OCYYzotqKZ4)
-- [Full Concert Olivia Rodrigo GUTS World Tour | Live in Bangkok | 15/09/24 4K UHD](https://www.youtube.com/watch?v=WPfNodL1YCo)
 <!-- YOUTUBE:END -->
 
 <details> 
