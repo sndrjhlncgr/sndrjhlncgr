@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [LANY - DNA #lany #concert #lanyconcert](https://www.youtube.com/watch?v=s6VcEGohA7c)
 - [Taylor Swift, Blank Space live at Liverpool Anfield Stadium! #taylorswift #swifties](https://www.youtube.com/watch?v=lA5p3PArIqg)
 - [The surprise act of The 2024 Global Citizen Festival #edsheeran #coldplay #coldplayfans](https://www.youtube.com/watch?v=6GcUI0NzGc8)
 - [POST MALONE #postmalone #concert](https://www.youtube.com/watch?v=Rp5u7Bg1dgc)
 - [Rosé &amp; Bruno Mars - APT is out now #brunomars #rosé #apt #musicvideo](https://www.youtube.com/watch?v=d3csZzGXQGM)
-- [Lisa - Moonlit floor #lisa #moonlitfloor](https://www.youtube.com/watch?v=TDLkxmG9RVc)
 <!-- YOUTUBE:END -->
 
 <details> 
