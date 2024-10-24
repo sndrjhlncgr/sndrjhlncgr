@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [LANY - I Don&#39;t Wanna Love You Anymore Trademark #lanyinmanila #lany #lanyconcert](https://www.youtube.com/watch?v=K8oiAFY9tIQ)
 - [LANY - DNA #lany #concert #lanyconcert](https://www.youtube.com/watch?v=s6VcEGohA7c)
 - [Taylor Swift, Blank Space live at Liverpool Anfield Stadium! #taylorswift #swifties](https://www.youtube.com/watch?v=lA5p3PArIqg)
 - [The surprise act of The 2024 Global Citizen Festival #edsheeran #coldplay #coldplayfans](https://www.youtube.com/watch?v=6GcUI0NzGc8)
 - [POST MALONE #postmalone #concert](https://www.youtube.com/watch?v=Rp5u7Bg1dgc)
-- [Rosé &amp; Bruno Mars - APT is out now #brunomars #rosé #apt #musicvideo](https://www.youtube.com/watch?v=d3csZzGXQGM)
 <!-- YOUTUBE:END -->
 
 <details> 
