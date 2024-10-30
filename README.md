@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Cruel Summer #taylorswifttheerastour #erastour](https://www.youtube.com/watch?v=f_UNtK_0C3U)
+- [just for you id let it happen #gracieabrams #letithappen #thesecretofustour](https://www.youtube.com/watch?v=X9NNKxPJWmw)
 - [Papercut, Live from Los Angeles, Sept 5th #FromZero #linkinpark #emily](https://www.youtube.com/watch?v=4wbX1NNfFnI)
 - [lany - ilysb #lanyliveinmanila #lany](https://www.youtube.com/watch?v=GGQqcXrgGwg)
 - [LANY - I Don&#39;t Wanna Love You Anymore Trademark #lanyinmanila #lany #lanyconcert](https://www.youtube.com/watch?v=K8oiAFY9tIQ)
-- [LANY - DNA #lany #concert #lanyconcert](https://www.youtube.com/watch?v=s6VcEGohA7c)
-- [Taylor Swift, Blank Space live at Liverpool Anfield Stadium! #taylorswift #swifties](https://www.youtube.com/watch?v=lA5p3PArIqg)
 <!-- YOUTUBE:END -->
 
 <details> 
