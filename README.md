@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [heaven on this earth by forrest frank out now #forrestfrank #heavenonthisearth #viralvideo](https://www.youtube.com/watch?v=tm6xhrBLFpo)
+- [Forrest Frank - HEAVEN ON THIS EARTH](https://www.youtube.com/watch?v=iQ2qyLA6RTU)
 - [Cruel Summer #taylorswifttheerastour #erastour](https://www.youtube.com/watch?v=f_UNtK_0C3U)
 - [just for you id let it happen #gracieabrams #letithappen #thesecretofustour](https://www.youtube.com/watch?v=X9NNKxPJWmw)
 - [Papercut, Live from Los Angeles, Sept 5th #FromZero #linkinpark #emily](https://www.youtube.com/watch?v=4wbX1NNfFnI)
-- [lany - ilysb #lanyliveinmanila #lany](https://www.youtube.com/watch?v=GGQqcXrgGwg)
-- [LANY - I Don&#39;t Wanna Love You Anymore Trademark #lanyinmanila #lany #lanyconcert](https://www.youtube.com/watch?v=K8oiAFY9tIQ)
 <!-- YOUTUBE:END -->
 
 <details> 
