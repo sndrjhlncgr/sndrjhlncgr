@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Linkin Park – Waiting for the End, live 2024 at Los Angeles, CA #linkinpark #losangeles #concert](https://www.youtube.com/watch?v=IxF0Vc128tA)
+- [Candy Paint with the white on top #postmalone #concert](https://www.youtube.com/watch?v=4oF0XGIzLLY)
 - [Snoop Dogg  #frontrow #concert #snoopdogg](https://www.youtube.com/watch?v=AF5SafSoMV0)
 - [Left, right, let me see you do it #concerts #chrisbrown #chrisbrownofficial](https://www.youtube.com/watch?v=z8wKPQ4dWEU)
 - [Clairo - bags #clairo #bags #concert](https://www.youtube.com/watch?v=XDldXnZ7J_M)
-- [Post Malone at @Revolve festival ️‍#postmalone #revolve #festival](https://www.youtube.com/watch?v=A0SgtYTfb-k)
-- [Points of Authority Live from São Paulo #linkinpark  #ontour  #concert](https://www.youtube.com/watch?v=CK33_Dy4uXg)
 <!-- YOUTUBE:END -->
 
 <details> 
