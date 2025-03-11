@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [party 4 u by #CharliXCX #howimfeelingnow #party4u #laneway](https://www.youtube.com/watch?v=yukpEKrwgjk)
 - [THEY NOT LIKE US #kendricklamar #applemusichalftime #superbowl](https://www.youtube.com/watch?v=0dbumlvpMWo)
 - [ALL THE STARS #kendricklamar #nfl #applemusichalftime](https://www.youtube.com/watch?v=ApXypqKrEFU)
 - [Kendrick Lamar&#39;s Apple Music Super Bowl Halftime Show](https://www.youtube.com/watch?v=tvs4wxY-PV0)
 - [Linkin Park – Waiting for the End, live 2024 at Los Angeles, CA #linkinpark #losangeles #concert](https://www.youtube.com/watch?v=IxF0Vc128tA)
-- [Candy Paint with the white on top #postmalone #concert](https://www.youtube.com/watch?v=4oF0XGIzLLY)
 <!-- YOUTUBE:END -->
 
 <details> 
