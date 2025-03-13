@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [3 / that&#39;s so true - gracie abrams 🎸 #gracieabrams #gracie](https://www.youtube.com/watch?v=HzAQYrseHM8)
+- [2 / that&#39;s so true - gracie abrams 🎸 #gracieabrams #gracie](https://www.youtube.com/watch?v=J9D-tlWsLX0)
+- [1 / that&#39;s so true - gracie abrams 🎸 #gracieabrams #gracie](https://www.youtube.com/watch?v=8S5-ivqtOoo)
 - [party 4 u by #CharliXCX #howimfeelingnow #party4u #laneway](https://www.youtube.com/watch?v=yukpEKrwgjk)
 - [THEY NOT LIKE US #kendricklamar #applemusichalftime #superbowl](https://www.youtube.com/watch?v=0dbumlvpMWo)
-- [ALL THE STARS #kendricklamar #nfl #applemusichalftime](https://www.youtube.com/watch?v=ApXypqKrEFU)
-- [Kendrick Lamar&#39;s Apple Music Super Bowl Halftime Show](https://www.youtube.com/watch?v=tvs4wxY-PV0)
-- [Linkin Park – Waiting for the End, live 2024 at Los Angeles, CA #linkinpark #losangeles #concert](https://www.youtube.com/watch?v=IxF0Vc128tA)
 <!-- YOUTUBE:END -->
 
 <details> 
