@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Esme Emerson - Show You](https://www.youtube.com/watch?v=oid7tToU364)
 - [JENNIE - ExtraL #jennie #extral #jennierubyjane](https://www.youtube.com/watch?v=LzIVZlYc8vs)
 - [Jennie - Love Hangover #jennie #jenniekim #lovehangover](https://www.youtube.com/watch?v=ks-8KWZYDqU)
 - [busywoman #sabrinacarpenter #foryou #fyp #concerts #xyzabc](https://www.youtube.com/watch?v=pvBeSu-iqrM)
 - [dojacat  #dojacat #doja](https://www.youtube.com/watch?v=lO_Xpi1d6u0)
-- [With you - chris brown #chrisbrownofficial #chrisbrownconcert #montreal](https://www.youtube.com/watch?v=AY0nmGXAWuU)
 <!-- YOUTUBE:END -->
 
 <details> 
