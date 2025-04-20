@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Music Taste Live Stream](https://www.youtube.com/watch?v=C0TbFz2Hf58)
 - [Gesaffelstein - Opr &lpar; Thunderbolts* Trailer Soundtrack &rpar;](https://www.youtube.com/watch?v=WF26CTNRyMM)
 - [muque - &quot;The 1&quot; &lpar;One Piece Episode 1124 Ending Theme&rpar;](https://www.youtube.com/watch?v=gawf85aVGqk)
 - [JENNIE - ZEN #jennie #jenniekim #concert](https://www.youtube.com/watch?v=XykYSox9qc0)
 - [JENNIE - like JENNIE #jennie #jenniekim #concert](https://www.youtube.com/watch?v=UxR-dEDDf28)
+- [Esme Emerson - Show You](https://www.youtube.com/watch?v=oid7tToU364)
 <!-- YOUTUBE:END -->
 
 <details> 
