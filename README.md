@@ -30,11 +30,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Dua Lipa - Be The One #melbourne  #australia #dualipa #radicaloptimism](https://www.youtube.com/watch?v=8xMpPjl4zUY)
+- [About You - The 1975  #the1975  #goldenhour  #finsburypark #mattyhealy](https://www.youtube.com/watch?v=3lJx_m4ALLA)
 - [Gesaffelstein - Opr &lpar; Thunderbolts* Trailer Soundtrack &rpar;](https://www.youtube.com/watch?v=WF26CTNRyMM)
 - [muque - &quot;The 1&quot; &lpar;One Piece Episode 1124 Ending Theme&rpar;](https://www.youtube.com/watch?v=gawf85aVGqk)
 - [JENNIE - ZEN #jennie #jenniekim #concert](https://www.youtube.com/watch?v=XykYSox9qc0)
-- [JENNIE - like JENNIE #jennie #jenniekim #concert](https://www.youtube.com/watch?v=UxR-dEDDf28)
-- [Esme Emerson - Show You](https://www.youtube.com/watch?v=oid7tToU364)
 <!-- YOUTUBE:END -->
 
 <details> 
