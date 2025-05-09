@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [AKON in Baku #akon #bakuconcert #akonrightnow #rightnow](https://www.youtube.com/watch?v=vqfORTekMbY)
 - [The Encore Tour in Sydney #theencoretour #madisonbeer #sydney](https://www.youtube.com/watch?v=u4iExwVFTP0)
 - [Music Taste Live Stream](https://www.youtube.com/watch?v=5icOvbFehCQ)
 - [Dear Society - Madison Beer #madisonbeeredit #madisonbeer  #spinnintour](https://www.youtube.com/watch?v=6v9erPJLWcw)
 - [Dua Lipa - Be The One #melbourne  #australia #dualipa #radicaloptimism](https://www.youtube.com/watch?v=8xMpPjl4zUY)
-- [About You - The 1975  #the1975  #goldenhour  #finsburypark #mattyhealy](https://www.youtube.com/watch?v=3lJx_m4ALLA)
 <!-- YOUTUBE:END -->
 
 <details> 
