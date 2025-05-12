@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [VCT Pacific 2025 Stage 1 Lower Finals](https://www.youtube.com/watch?v=1V1rQr-xX5s)
 - [Never getting over this performance #rihanna  #superbowl  #halftimeshow2023](https://www.youtube.com/watch?v=kdKq0FiWrTk)
 - [Bruno mars in Manila #philippinearena  #trendingconcert #vipaccess  #brunomars](https://www.youtube.com/watch?v=xS8KQ6flXwo)
 - [AKON in Baku #akon #bakuconcert #akonrightnow #rightnow](https://www.youtube.com/watch?v=vqfORTekMbY)
 - [The Encore Tour in Sydney #theencoretour #madisonbeer #sydney](https://www.youtube.com/watch?v=u4iExwVFTP0)
-- [Music Taste Live Stream](https://www.youtube.com/watch?v=5icOvbFehCQ)
 <!-- YOUTUBE:END -->
 
 <details> 
