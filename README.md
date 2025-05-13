@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Beyonce in London #beyonce #renaissancetour  #amsterdam #renaissanceworldtour](https://www.youtube.com/watch?v=2574_nqSFeA)
 - [Madison beer #spinnintour  #london  #dearsociety](https://www.youtube.com/watch?v=0vb_TICo3Yg)
 - [Never getting over this performance #rihanna  #superbowl  #halftimeshow2023](https://www.youtube.com/watch?v=kdKq0FiWrTk)
 - [Bruno mars in Manila #philippinearena  #trendingconcert #vipaccess  #brunomars](https://www.youtube.com/watch?v=xS8KQ6flXwo)
 - [AKON in Baku #akon #bakuconcert #akonrightnow #rightnow](https://www.youtube.com/watch?v=vqfORTekMbY)
-- [The Encore Tour in Sydney #theencoretour #madisonbeer #sydney](https://www.youtube.com/watch?v=u4iExwVFTP0)
 <!-- YOUTUBE:END -->
 
 <details> 
