@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [No Guidance - Chris Brown #chrisbrownofficial #noguidance  at #tycoonmusicfestival #detroit](https://www.youtube.com/watch?v=vqBwRtWDA8M)
 - [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/watch?v=vKvgFQfUCvs)
 - [Beyonce in London #beyonce #renaissancetour  #amsterdam #renaissanceworldtour](https://www.youtube.com/watch?v=2574_nqSFeA)
 - [Madison beer #spinnintour  #london  #dearsociety](https://www.youtube.com/watch?v=0vb_TICo3Yg)
 - [Never getting over this performance #rihanna  #superbowl  #halftimeshow2023](https://www.youtube.com/watch?v=kdKq0FiWrTk)
-- [Bruno mars in Manila #philippinearena  #trendingconcert #vipaccess  #brunomars](https://www.youtube.com/watch?v=xS8KQ6flXwo)
 <!-- YOUTUBE:END -->
 
 <details> 
