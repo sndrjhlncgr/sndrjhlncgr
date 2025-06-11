@@ -30,10 +30,10 @@
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/watch?v=OGgNSp4Ll-A)
-- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/watch?v=Q16F6gqjbv8)
-- [Kehlani After Hours #melbourne  #kehlani  #kehlaniclips #melbournekehlani #kehlanico](https://www.youtube.com/watch?v=EEUQdoEnZo4)
-- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/watch?v=NCxNOXDf0X4)
-- [Madison performing I wonder in London #madisonbeer #thespinnintour](https://www.youtube.com/watch?v=nl28g2SrPoY)
+- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/Q16F6gqjbv8)
+- [Kehlani After Hours #melbourne  #kehlani  #kehlaniclips #melbournekehlani #kehlanico](https://www.youtube.com/shorts/EEUQdoEnZo4)
+- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/NCxNOXDf0X4)
+- [Madison performing I wonder in London #madisonbeer #thespinnintour](https://www.youtube.com/shorts/nl28g2SrPoY)
 <!-- YOUTUBE:END -->
 
 <details> 
