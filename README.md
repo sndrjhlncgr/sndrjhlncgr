@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [AINT IT FUN AINT IT FUNNN #paramore #paramoreaus #paramoremelbourne #hayleywill](https://www.youtube.com/shorts/R9EqWnCi40g)
 - [The only exception #paramore  #thisiswhytour #paramoremelbourne](https://www.youtube.com/shorts/aO0iYppzv9E)
 - [Saturn - SZA #minneapolis  #sza  #szasos  #grandnationaltour](https://www.youtube.com/shorts/xjzW7z9hQBs)
 - [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/OCAnlzjMiww)
 - [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/OGgNSp4Ll-A)
-- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/Q16F6gqjbv8)
 <!-- YOUTUBE:END -->
 
 <details> 
