@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Teddybears - Punkrocker &lpar;feat. Iggy Pop&rpar; | Superman 2025 Ending Soundtrack](https://www.youtube.com/watch?v=JA3xOaFQ8B4)
 - [AINT IT FUN AINT IT FUNNN #paramore #paramoreaus #paramoremelbourne #hayleywill](https://www.youtube.com/shorts/R9EqWnCi40g)
 - [The only exception #paramore  #thisiswhytour #paramoremelbourne](https://www.youtube.com/shorts/aO0iYppzv9E)
 - [Saturn - SZA #minneapolis  #sza  #szasos  #grandnationaltour](https://www.youtube.com/shorts/xjzW7z9hQBs)
 - [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/OCAnlzjMiww)
-- [Adele in munich #munich #adele  #concert  #adelemusic](https://www.youtube.com/shorts/OGgNSp4Ll-A)
 <!-- YOUTUBE:END -->
 
 <details> 
