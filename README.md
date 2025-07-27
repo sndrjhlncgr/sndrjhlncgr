@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Hayley Williams debuting Mirtazapine. #paramore  #hayleywilliams #mirtazapine #newportfolkfestival](https://www.youtube.com/shorts/0F0-E9pL1t8)
 - [AINT IT FUN AINT IT FUNNN #paramore #paramoreaus #paramoremelbourne #hayleywill](https://www.youtube.com/shorts/IzeRuIm4Vkw)
 - [Teddybears - Punkrocker &lpar;feat. Iggy Pop&rpar; | Superman 2025 Ending Soundtrack](https://www.youtube.com/watch?v=JA3xOaFQ8B4)
 - [AINT IT FUN AINT IT FUNNN #paramore #paramoreaus #paramoremelbourne #hayleywill](https://www.youtube.com/shorts/R9EqWnCi40g)
 - [The only exception #paramore  #thisiswhytour #paramoremelbourne](https://www.youtube.com/shorts/aO0iYppzv9E)
-- [Saturn - SZA #minneapolis  #sza  #szasos  #grandnationaltour](https://www.youtube.com/shorts/xjzW7z9hQBs)
 <!-- YOUTUBE:END -->
 
 <details> 
