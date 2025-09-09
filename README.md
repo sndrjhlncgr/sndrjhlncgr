@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [LIKE DUDE THIS IS CRAZY #paramore  #paramoreconcert  #paramoretour #music  #concert](https://www.youtube.com/shorts/zPKdAeeuqxM)
 - [Dua Lipa performing “Whatcha Doing” in London during Night #dualipa #concert](https://www.youtube.com/shorts/qIeMsr12XOM)
 - [Pitbull I Know You Want Me Calle Ocho   #o2jam  #london  #pitbull](https://www.youtube.com/shorts/i9loS35fBLY)
 - [Still into you!! Live from London N8 #theerastour  #paramore  #hayleywilliams  #theerastour](https://www.youtube.com/shorts/HmLqSpFQwWc)
 - [Still into you!! Live from London N8 #theerastour  #paramore  #hayleywilliams  #theerastour](https://www.youtube.com/shorts/qGqv3CczDVY)
-- [the only exception hayley williams #paramore #hayleywilliams #theerastour #tstherastou](https://www.youtube.com/shorts/U6JBFdzy5vk)
 <!-- YOUTUBE:END -->
 
 <details> 
