@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [can we talk about the paris crowd during extra #jennie #ruby](https://www.youtube.com/shorts/O3tpX66fNBA)
 - [hayleys stage presence is truly unmatched #paramore  #concert  #nyc](https://www.youtube.com/shorts/Ybgv_EZq8ho)
 - [Be so fr she IS A POPSTAR  #zaralarsson #concert](https://www.youtube.com/shorts/XfHspew0Ukk)
 - [Zara Larsson #zaralarsson #concert](https://www.youtube.com/shorts/nCv0f-EBahs)
 - [Still into you!! Live from London N8 #theerastour  #paramore  #hayleywilliams  #theerastour](https://www.youtube.com/shorts/n36z8uzdlfI)
-- [Happy birthday, @Paramore’s Hayley 💓 #paramore  #paramoreconcert  #hayleywilliams](https://www.youtube.com/shorts/mif0q9NGcp4)
 <!-- YOUTUBE:END -->
 
 <details> 
