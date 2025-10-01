@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [blackpink #milano  #blackpinkmilan #blackpinkdeadline #blackpinkworldtour #lisablackpink #jisooblack](https://www.youtube.com/shorts/hE6ANNqF2-4)
 - [bags 🥲 #clairo   #govballnyc](https://www.youtube.com/shorts/U7ONLjqNdjk)
 - [can we talk about the paris crowd during extra #jennie #ruby](https://www.youtube.com/shorts/O3tpX66fNBA)
 - [hayleys stage presence is truly unmatched #paramore  #concert  #nyc](https://www.youtube.com/shorts/Ybgv_EZq8ho)
 - [Be so fr she IS A POPSTAR  #zaralarsson #concert](https://www.youtube.com/shorts/XfHspew0Ukk)
-- [Zara Larsson #zaralarsson #concert](https://www.youtube.com/shorts/nCv0f-EBahs)
 <!-- YOUTUBE:END -->
 
 <details> 
