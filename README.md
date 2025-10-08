@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Very First Time #blackpink  #losangeles  #sofistadium  #Lisablacpkink](https://www.youtube.com/shorts/qVHME34izeg)
 - [blackpink  lisa #blackpink  #foryou  #fyp  #lisaedit](https://www.youtube.com/shorts/elqhi2iCkDk)
 - [JENNIE BLACKPINK #jennie #deadline #KPop #fancam #parati #blackpink](https://www.youtube.com/shorts/_JKPgbcjiWw)
 - [blackpink #milano  #blackpinkmilan #blackpinkdeadline #blackpinkworldtour #lisablackpink #jisooblack](https://www.youtube.com/shorts/hE6ANNqF2-4)
 - [bags 🥲 #clairo   #govballnyc](https://www.youtube.com/shorts/U7ONLjqNdjk)
-- [can we talk about the paris crowd during extra #jennie #ruby](https://www.youtube.com/shorts/O3tpX66fNBA)
 <!-- YOUTUBE:END -->
 
 <details> 
