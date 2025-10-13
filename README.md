@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [BLACKPINK singing #wannabe  by Spice Girls in London at #deadlineinlondon #lisamanoban  # blackpink](https://www.youtube.com/shorts/TXQmP0xt-dg)
 - [As If It’s Your Last  #rose é #blackpink  #deadline  #losangeles](https://www.youtube.com/shorts/8KO5LtSoW5c)
 - [The Very First Time #blackpink  #losangeles  #sofistadium  #Lisablacpkink](https://www.youtube.com/shorts/qVHME34izeg)
 - [blackpink  lisa #blackpink  #foryou  #fyp  #lisaedit](https://www.youtube.com/shorts/elqhi2iCkDk)
 - [JENNIE BLACKPINK #jennie #deadline #KPop #fancam #parati #blackpink](https://www.youtube.com/shorts/_JKPgbcjiWw)
-- [blackpink #milano  #blackpinkmilan #blackpinkdeadline #blackpinkworldtour #lisablackpink #jisooblack](https://www.youtube.com/shorts/hE6ANNqF2-4)
 <!-- YOUTUBE:END -->
 
 <details> 
