@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Hayley Williams - Mirtazapine with Bleachers at Newport Folk Festival  #paramore  #hayleywilliams](https://www.youtube.com/shorts/y4OHTPGm6SY)
 - [BLACKPINK singing #wannabe  by Spice Girls in London at #deadlineinlondon #lisamanoban  # blackpink](https://www.youtube.com/shorts/TXQmP0xt-dg)
 - [As If It’s Your Last  #rose é #blackpink  #deadline  #losangeles](https://www.youtube.com/shorts/8KO5LtSoW5c)
 - [The Very First Time #blackpink  #losangeles  #sofistadium  #Lisablacpkink](https://www.youtube.com/shorts/qVHME34izeg)
 - [blackpink  lisa #blackpink  #foryou  #fyp  #lisaedit](https://www.youtube.com/shorts/elqhi2iCkDk)
-- [JENNIE BLACKPINK #jennie #deadline #KPop #fancam #parati #blackpink](https://www.youtube.com/shorts/_JKPgbcjiWw)
 <!-- YOUTUBE:END -->
 
 <details> 
