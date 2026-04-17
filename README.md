@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Apocalypse in Milan  🇮🇹 Ethereal vibes at Unipol Forum  🌑✨ #CAS #cigarettesaftersex](https://www.youtube.com/shorts/ppQQdAooRI8)
+- [Sabrina is a literal angel! ✨ Good Graces live at the Short n’ Sweet Tour  💋 #sabrinacarpenter](https://www.youtube.com/shorts/RwH9kOIH-rY)
+- [Kendrick Lamar live at Rolling Loud Rotterdam! 🇳🇱 The energy was insane. 🎤🔥 #kendrick  #rollingloud](https://www.youtube.com/shorts/al1Pa5JD5qY)
 - [Hayley Williams - Mirtazapine with Bleachers at Newport Folk Festival  #paramore  #hayleywilliams](https://www.youtube.com/shorts/y4OHTPGm6SY)
 - [BLACKPINK singing #wannabe  by Spice Girls in London at #deadlineinlondon #lisamanoban  # blackpink](https://www.youtube.com/shorts/TXQmP0xt-dg)
-- [As If It’s Your Last  #rose é #blackpink  #deadline  #losangeles](https://www.youtube.com/shorts/8KO5LtSoW5c)
-- [The Very First Time #blackpink  #losangeles  #sofistadium  #Lisablacpkink](https://www.youtube.com/shorts/qVHME34izeg)
-- [blackpink  lisa #blackpink  #foryou  #fyp  #lisaedit](https://www.youtube.com/shorts/elqhi2iCkDk)
 <!-- YOUTUBE:END -->
 
 <details> 
