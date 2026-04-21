@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The duet we didn&#39;t know we needed! 🎤✨ @teddyswims @joejonas #coachella #coachella2026 #livemusic #s](https://www.youtube.com/shorts/TVQmUITMBT0)
 - [Hayley Williams All I Wanted LIVE Melbourne 🇦🇺 #paramore #alliwanted #melbourne #thisiswhytour](https://www.youtube.com/shorts/XMRyRkKNdBo)
 - [K Dot takeover at Rolling Loud Rotterdam! 🇳🇱 Witnessing greatness live  🎤🐐 #Kendrick #RollingLou](https://www.youtube.com/shorts/ruO25EBIa04)
 - [Apocalypse in Milan  🇮🇹 Ethereal vibes at Unipol Forum  🌑✨ #CAS #cigarettesaftersex](https://www.youtube.com/shorts/ppQQdAooRI8)
 - [Sabrina is a literal angel! ✨ Good Graces live at the Short n’ Sweet Tour  💋 #sabrinacarpenter](https://www.youtube.com/shorts/RwH9kOIH-rY)
-- [Kendrick Lamar live at Rolling Loud Rotterdam! 🇳🇱 The energy was insane. 🎤🔥 #kendrick  #rollingloud](https://www.youtube.com/shorts/al1Pa5JD5qY)
 <!-- YOUTUBE:END -->
 
 <details> 
