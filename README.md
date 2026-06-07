@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [She’s so cute! 🥹 Madison’s reaction to the standing ovation was everything  #madisonbeer #live](https://www.youtube.com/shorts/hNNRobzbouY)
 - [Love is Embarrassing live in Manila! 💜 🇵🇭 The GUTS energy was unmatched  #oliviarodrigo #manila](https://www.youtube.com/shorts/BjmgDdhKaJA)
 - [That towel catch was so smooooooth! 🇵🇭🔥 #brunomars #manila #livemusic #philippines](https://www.youtube.com/shorts/M8k75oA48lk)
 - [Give Yourself a Try live in London! 🎸✨ #the1975 #livemusic #london #altmusic](https://www.youtube.com/shorts/UTo49vCMtNE)
 - [POV You’re Front Row at a Creed concert! 🎤🔥 #creed #creedtour #frontrow #livemusic #rock](https://www.youtube.com/shorts/eEjlF1GBymg)
-- [The duet we didn&#39;t know we needed! 🎤✨ @teddyswims @joejonas #coachella #coachella2026 #livemusic #s](https://www.youtube.com/shorts/TVQmUITMBT0)
 <!-- YOUTUBE:END -->
 
 <details> 
