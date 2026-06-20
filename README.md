@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [She deserved that standing ovation! 🥹 So cute omg @madison #madisonbeer #thespinnintour](https://www.youtube.com/shorts/G5-TsryzWqg)
 - [Chris Martin singing Fix You 🥹 Light will guide you home    ✨ #coldplay #fixyou #chrismartin](https://www.youtube.com/shorts/mEWusCeEYvI)
 - [She’s so cute! 🥹 Madison’s reaction to the standing ovation was everything  #madisonbeer #live](https://www.youtube.com/shorts/hNNRobzbouY)
 - [Love is Embarrassing live in Manila! 💜 🇵🇭 The GUTS energy was unmatched  #oliviarodrigo #manila](https://www.youtube.com/shorts/BjmgDdhKaJA)
 - [That towel catch was so smooooooth! 🇵🇭🔥 #brunomars #manila #livemusic #philippines](https://www.youtube.com/shorts/M8k75oA48lk)
-- [Give Yourself a Try live in London! 🎸✨ #the1975 #livemusic #london #altmusic](https://www.youtube.com/shorts/UTo49vCMtNE)
 <!-- YOUTUBE:END -->
 
 <details> 
