@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Drag Path Live Debut at Innings Festival! #DragPath #InningsFestival #Tempe #LiveMusic #Arizona](https://www.youtube.com/shorts/8Oi-cKCro-g)
+- [Shake It Off from the Front Row Diamond! 💎💃 #taylorswift #torontostheerastour #shakeitoff](https://www.youtube.com/shorts/gNhZ-cbWoQY)
 - [Tejano Blue 🫶🏻 CAS making everything feel like a dream  ✨ #cigarettesaftersex #tejanoblue #live](https://www.youtube.com/shorts/d_mGbg9Qz7o)
 - [Love is Embarrassing! 💜 Manila went so hard for GUTS  🇵🇭 #oliviarodrigo # Manila #gutstour #live](https://www.youtube.com/shorts/Ggl087USvFk)
 - [She deserved that standing ovation! 🥹 So cute omg @madison #madisonbeer #thespinnintour](https://www.youtube.com/shorts/G5-TsryzWqg)
-- [Chris Martin singing Fix You 🥹 Light will guide you home    ✨ #coldplay #fixyou #chrismartin](https://www.youtube.com/shorts/mEWusCeEYvI)
-- [She’s so cute! 🥹 Madison’s reaction to the standing ovation was everything  #madisonbeer #live](https://www.youtube.com/shorts/hNNRobzbouY)
 <!-- YOUTUBE:END -->
 
 <details> 
