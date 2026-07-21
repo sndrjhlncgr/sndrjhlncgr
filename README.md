@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Can&#39;t get over this Coachella moment! 🤯🎤 @teddyswims @joejonas #teddyswims #joejonas #coachella #c](https://www.youtube.com/shorts/CaRbf7ECyhA)
 - [Block Me Out live in Berlin 💗 Such a vibe! #gracieabrams #berlin #blockmeout #livemusic](https://www.youtube.com/shorts/m0_kldJK_UI)
 - [Drag Path Live Debut at Innings Festival! #DragPath #InningsFestival #Tempe #LiveMusic #Arizona](https://www.youtube.com/shorts/8Oi-cKCro-g)
 - [Shake It Off from the Front Row Diamond! 💎💃 #taylorswift #torontostheerastour #shakeitoff](https://www.youtube.com/shorts/gNhZ-cbWoQY)
 - [Tejano Blue 🫶🏻 CAS making everything feel like a dream  ✨ #cigarettesaftersex #tejanoblue #live](https://www.youtube.com/shorts/d_mGbg9Qz7o)
-- [Love is Embarrassing! 💜 Manila went so hard for GUTS  🇵🇭 #oliviarodrigo # Manila #gutstour #live](https://www.youtube.com/shorts/Ggl087USvFk)
 <!-- YOUTUBE:END -->
 
 <details> 
