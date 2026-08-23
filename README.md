@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The GUTS Tour Manila was a literal dream! 💜✨ #oliviarodrigo #loveisembarrassing #gutstour #live](https://www.youtube.com/shorts/e6pfLk9I3H0)
 - [Pure magic from Kendrick at Rolling Loud Rotterdam! 🇳🇱 The king of rap live  👑🔥 #Kendrick #Rotte](https://www.youtube.com/shorts/tBYPUel_Spk)
 - [Down Bad vs  Fortnight in Paris! 🇫🇷✨ #paris #tstheerastour #taylorswift #thetorturedpoetsdepartmen](https://www.youtube.com/shorts/H_UbefCfGg0)
 - [Can&#39;t get over this Coachella moment! 🤯🎤 @teddyswims @joejonas #teddyswims #joejonas #coachella #c](https://www.youtube.com/shorts/CaRbf7ECyhA)
 - [Block Me Out live in Berlin 💗 Such a vibe! #gracieabrams #berlin #blockmeout #livemusic](https://www.youtube.com/shorts/m0_kldJK_UI)
-- [Drag Path Live Debut at Innings Festival! #DragPath #InningsFestival #Tempe #LiveMusic #Arizona](https://www.youtube.com/shorts/8Oi-cKCro-g)
 <!-- YOUTUBE:END -->
 
 <details> 
