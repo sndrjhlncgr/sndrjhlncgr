@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Is it cool that I said all that 🥹 Delicate live! ✨ #taylorswift #erastour #delicate #swifties](https://www.youtube.com/shorts/FMIbb4b-UcA)
 - [The GUTS Tour Manila was a literal dream! 💜✨ #oliviarodrigo #loveisembarrassing #gutstour #live](https://www.youtube.com/shorts/e6pfLk9I3H0)
 - [Pure magic from Kendrick at Rolling Loud Rotterdam! 🇳🇱 The king of rap live  👑🔥 #Kendrick #Rotte](https://www.youtube.com/shorts/tBYPUel_Spk)
 - [Down Bad vs  Fortnight in Paris! 🇫🇷✨ #paris #tstheerastour #taylorswift #thetorturedpoetsdepartmen](https://www.youtube.com/shorts/H_UbefCfGg0)
 - [Can&#39;t get over this Coachella moment! 🤯🎤 @teddyswims @joejonas #teddyswims #joejonas #coachella #c](https://www.youtube.com/shorts/CaRbf7ECyhA)
-- [Block Me Out live in Berlin 💗 Such a vibe! #gracieabrams #berlin #blockmeout #livemusic](https://www.youtube.com/shorts/m0_kldJK_UI)
 <!-- YOUTUBE:END -->
 
 <details> 
