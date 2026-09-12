@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Bleed LIVE from Sydney 🇦🇺 @TheKidLAROI @PostMalone #TheKidLAROI #PostMalone #Sydney #BleedLive](https://www.youtube.com/shorts/02hlOxX7UYU)
 - [It’s been a while since I’ve been me    13 live  💔✨ #lany #13 #lanytour #livemusic #vibes](https://www.youtube.com/shorts/k3NIl9OwWBI)
 - [Is it cool that I said all that 🥹 Delicate live! ✨ #taylorswift #erastour #delicate #swifties](https://www.youtube.com/shorts/FMIbb4b-UcA)
 - [The GUTS Tour Manila was a literal dream! 💜✨ #oliviarodrigo #loveisembarrassing #gutstour #live](https://www.youtube.com/shorts/e6pfLk9I3H0)
 - [Pure magic from Kendrick at Rolling Loud Rotterdam! 🇳🇱 The king of rap live  👑🔥 #Kendrick #Rotte](https://www.youtube.com/shorts/tBYPUel_Spk)
-- [Down Bad vs  Fortnight in Paris! 🇫🇷✨ #paris #tstheerastour #taylorswift #thetorturedpoetsdepartmen](https://www.youtube.com/shorts/H_UbefCfGg0)
 <!-- YOUTUBE:END -->
 
 <details> 
