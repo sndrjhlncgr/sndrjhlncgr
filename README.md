@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [The Louvre in Toronto! 🖼️✨ Ultrasound Tour 2025  @lorde #lorde #thelouvre #toronto #concert](https://www.youtube.com/shorts/fHuOEEO1ppQ)
 - [I levitated! 😭 Drag Path Live Debut @ Innings Fest @twentyonepilots #dragpath #clique #inningsfest](https://www.youtube.com/shorts/rMa0RZICSLI)
 - [Bleed LIVE from Sydney 🇦🇺 @TheKidLAROI @PostMalone #TheKidLAROI #PostMalone #Sydney #BleedLive](https://www.youtube.com/shorts/02hlOxX7UYU)
 - [It’s been a while since I’ve been me    13 live  💔✨ #lany #13 #lanytour #livemusic #vibes](https://www.youtube.com/shorts/k3NIl9OwWBI)
 - [Is it cool that I said all that 🥹 Delicate live! ✨ #taylorswift #erastour #delicate #swifties](https://www.youtube.com/shorts/FMIbb4b-UcA)
-- [The GUTS Tour Manila was a literal dream! 💜✨ #oliviarodrigo #loveisembarrassing #gutstour #live](https://www.youtube.com/shorts/e6pfLk9I3H0)
 <!-- YOUTUBE:END -->
 
 <details> 
