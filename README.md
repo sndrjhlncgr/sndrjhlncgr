@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [First row at SoFi Stadium! 💎 Lisa is literally amazing  🖤💗 #blackpink #lisa #sofistadium #la](https://www.youtube.com/shorts/2vH_c-Z4BuA)
 - [The way my heart dropped!!! 😭💔 @joejonas #joejonas #coachella #jonasbrothers #coachella2026](https://www.youtube.com/shorts/sWQXgdb2wMs)
 - [The Louvre in Toronto! 🖼️✨ Ultrasound Tour 2025  @lorde #lorde #thelouvre #toronto #concert](https://www.youtube.com/shorts/fHuOEEO1ppQ)
 - [I levitated! 😭 Drag Path Live Debut @ Innings Fest @twentyonepilots #dragpath #clique #inningsfest](https://www.youtube.com/shorts/rMa0RZICSLI)
 - [Bleed LIVE from Sydney 🇦🇺 @TheKidLAROI @PostMalone #TheKidLAROI #PostMalone #Sydney #BleedLive](https://www.youtube.com/shorts/02hlOxX7UYU)
-- [It’s been a while since I’ve been me    13 live  💔✨ #lany #13 #lanytour #livemusic #vibes](https://www.youtube.com/shorts/k3NIl9OwWBI)
 <!-- YOUTUBE:END -->
 
 <details> 
