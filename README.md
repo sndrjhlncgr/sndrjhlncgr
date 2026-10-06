@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [BLACKPINK as the Spice Girls in London! 🇬🇧🔥 Wannabe  #blackpink #spicegirls #london #lisa](https://www.youtube.com/shorts/MuEgwz9Dobc)
 - [Team live in Atlanta! 🌌 The Ultrasound Tour magic  ✨ #lorde #atlanta #ultrasoundtour #team](https://www.youtube.com/shorts/nUui9drqlRA)
 - [First row at SoFi Stadium! 💎 Lisa is literally amazing  🖤💗 #blackpink #lisa #sofistadium #la](https://www.youtube.com/shorts/2vH_c-Z4BuA)
 - [The way my heart dropped!!! 😭💔 @joejonas #joejonas #coachella #jonasbrothers #coachella2026](https://www.youtube.com/shorts/sWQXgdb2wMs)
 - [The Louvre in Toronto! 🖼️✨ Ultrasound Tour 2025  @lorde #lorde #thelouvre #toronto #concert](https://www.youtube.com/shorts/fHuOEEO1ppQ)
-- [I levitated! 😭 Drag Path Live Debut @ Innings Fest @twentyonepilots #dragpath #clique #inningsfest](https://www.youtube.com/shorts/rMa0RZICSLI)
 <!-- YOUTUBE:END -->
 
 <details> 
