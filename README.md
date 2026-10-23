@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [LISA energy is unmatched! 🔥✨ #blackpink #lisa #kpop #foryou #lalisa](https://www.youtube.com/shorts/O5Ei3Elt89Y)
 - [Reliving my favorite tour moments  🥹 Teenage Fever hits different  #drake #teenagefever #concert](https://www.youtube.com/shorts/fsAaF3Y_JaA)
 - [Posty at Revolve Festival! 🎸🔥 Pure vibes  #postmalone #revolvefestival #festival #live](https://www.youtube.com/shorts/E5BzcylEFsU)
 - [BLACKPINK as the Spice Girls in London! 🇬🇧🔥 Wannabe  #blackpink #spicegirls #london #lisa](https://www.youtube.com/shorts/MuEgwz9Dobc)
 - [Team live in Atlanta! 🌌 The Ultrasound Tour magic  ✨ #lorde #atlanta #ultrasoundtour #team](https://www.youtube.com/shorts/nUui9drqlRA)
-- [First row at SoFi Stadium! 💎 Lisa is literally amazing  🖤💗 #blackpink #lisa #sofistadium #la](https://www.youtube.com/shorts/2vH_c-Z4BuA)
 <!-- YOUTUBE:END -->
 
 <details> 
