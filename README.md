@@ -29,11 +29,11 @@
 
 ### Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Lorde performing Current Affairs live! 🎤✨ The Ultrasound Tour is magic  #lorde #ultrasoundtour](https://www.youtube.com/shorts/yaR2o76j8Hk)
 - [Out on the edge of something beautiful  🌊✨ #lany #thickandthin #livemusic #aestheticedits](https://www.youtube.com/shorts/_DAf68X0UCE)
 - [Manifesting this moment forever! ✨ Front row for the surprise song set was a dream  🎸🫶 @taylorswif](https://www.youtube.com/shorts/AFFHApiyXZo)
 - [LISA energy is unmatched! 🔥✨ #blackpink #lisa #kpop #foryou #lalisa](https://www.youtube.com/shorts/O5Ei3Elt89Y)
 - [Reliving my favorite tour moments  🥹 Teenage Fever hits different  #drake #teenagefever #concert](https://www.youtube.com/shorts/fsAaF3Y_JaA)
-- [Posty at Revolve Festival! 🎸🔥 Pure vibes  #postmalone #revolvefestival #festival #live](https://www.youtube.com/shorts/E5BzcylEFsU)
 <!-- YOUTUBE:END -->
 
 <details> 
